@@ -1,0 +1,4142 @@
+date:
+2020年 05月 12日 星期二 18:19:13 CST
+＜----------------------------------------------------------------＞
+os version:
+Kali GNU/Linux Rolling \n \l
+
+＜----------------------------------------------------------------＞
+cpu information:
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2496.000
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx rdtscp lm constant_tsc arch_perfmon nopl tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes hypervisor lahf_lm 3dnowprefetch pti arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2496.000
+cache size	: 6144 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx rdtscp lm constant_tsc arch_perfmon nopl tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes hypervisor lahf_lm 3dnowprefetch pti arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2496.000
+cache size	: 6144 KB
+physical id	: 1
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx rdtscp lm constant_tsc arch_perfmon nopl tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes hypervisor lahf_lm 3dnowprefetch pti arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 158
+model name	: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2496.000
+cache size	: 6144 KB
+physical id	: 1
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx rdtscp lm constant_tsc arch_perfmon nopl tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes hypervisor lahf_lm 3dnowprefetch pti arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit
+bogomips	: 4992.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+＜----------------------------------------------------------------＞
+memory information:
+MemTotal:        2039236 kB
+MemFree:          463872 kB
+MemAvailable:     865992 kB
+Buffers:           52688 kB
+Cached:           466080 kB
+SwapCached:            0 kB
+Active:          1099124 kB
+Inactive:         258092 kB
+Active(anon):     839260 kB
+Inactive(anon):    15668 kB
+Active(file):     259864 kB
+Inactive(file):   242424 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2094076 kB
+SwapFree:        2094076 kB
+Dirty:               564 kB
+Writeback:             0 kB
+AnonPages:        813820 kB
+Mapped:           250328 kB
+Shmem:             16484 kB
+KReclaimable:      62688 kB
+Slab:             144000 kB
+SReclaimable:      62688 kB
+SUnreclaim:        81312 kB
+KernelStack:        9120 kB
+PageTables:        15492 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3113692 kB
+Committed_AS:    4619220 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       35648 kB
+VmallocChunk:          0 kB
+Percpu:             2752 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:    399360 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      139136 kB
+DirectMap2M:     1957888 kB
+＜----------------------------------------------------------------＞
+disk information:
+Disk /dev/sda: 60 GiB, 64424509440 bytes, 125829120 sectors
+Disk model: VMware Virtual S
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x318c0834
+
+Device     Boot     Start       End   Sectors Size Id Type
+/dev/sda1  *         2048 121636863 121634816  58G 83 Linux
+/dev/sda2       121638910 125827071   4188162   2G  5 Extended
+/dev/sda5       121638912 125827071   4188160   2G 82 Linux swap / Solaris
+文件系统        容量  已用  可用 已用% 挂载点
+udev            962M     0  962M    0% /dev
+tmpfs           200M  1.5M  198M    1% /run
+/dev/sda1        57G   12G   43G   21% /
+tmpfs           996M     0  996M    0% /dev/shm
+tmpfs           5.0M     0  5.0M    0% /run/lock
+tmpfs           996M     0  996M    0% /sys/fs/cgroup
+tmpfs           200M   16K  200M    1% /run/user/133
+tmpfs           200M   32K  200M    1% /run/user/0
+/dev/sr0        2.9G  2.9G     0  100% /media/cdrom0
+＜----------------------------------------------------------------＞
+uptime:
+ 18:19:14 up 16 min,  1 user,  load average: 0.03, 0.12, 0.21
+＜----------------------------------------------------------------＞
+installed software:
+accountsservice					install
+acl						install
+adduser						install
+adwaita-icon-theme				install
+aircrack-ng					install
+alsa-tools					install
+alsa-topology-conf				install
+alsa-ucm-conf					install
+amass						install
+amass-common					install
+amd64-microcode					install
+apache2						install
+apache2-bin					install
+apache2-data					install
+apache2-utils					install
+apg						install
+apparmor					install
+appstream					install
+apt						install
+apt-config-icons				install
+apt-listchanges					install
+apt-utils					install
+arj						install
+arp-scan					install
+arping						install
+aspell						install
+aspell-en					install
+at-spi2-core					install
+atftpd						install
+atmel-firmware					install
+attr						install
+autopsy						install
+avahi-daemon					install
+axel						install
+b43-fwcutter					install
+baobab						install
+base-files					install
+base-passwd					install
+bash						install
+bash-completion					install
+bind9-host					install
+binfmt-support					install
+binutils					install
+binutils-common:amd64				install
+binutils-x86-64-linux-gnu			install
+binwalk						install
+bison						install
+blt						install
+bluez						install
+bluez-firmware					install
+bluez-hcidump					install
+bluez-obexd					install
+bolt						install
+bsdmainutils					install
+bsdutils					install
+bubblewrap					install
+build-essential					install
+bulk-extractor					install
+bully						install
+bundler						install
+burpsuite					install
+busybox						install
+bzip2						install
+ca-certificates					install
+ca-certificates-java				install
+cadaver						install
+caribou						install
+cewl						install
+cgpt						install
+cheese-common					install
+cherrytree					install
+chntpw						install
+chrome-gnome-shell				install
+chromium					install
+chromium-common					install
+chromium-driver					install
+chromium-sandbox				install
+cifs-utils					install
+clang						install
+clang-6.0					install
+clang-8						install
+clang-9						install
+clusterd					install
+colord						install
+colord-data					install
+commix						install
+console-setup					install
+console-setup-linux				install
+coreutils					install
+cpio						install
+cpp						install
+cpp-8						install
+cpp-9						install
+cracklib-runtime				install
+cramfsswap					install
+crda						install
+creddump					install
+creddump7					install
+cron						install
+crunch						install
+cryptcat					install
+cryptsetup					install
+cryptsetup-bin					install
+cryptsetup-initramfs				install
+cryptsetup-nuke-password			install
+cryptsetup-run					install
+cups-bsd					install
+cups-client					install
+cups-common					install
+cups-pk-helper					install
+curl						install
+curlftpfs					install
+cutycapt					install
+cython						install
+cython3						install
+dahdi-firmware-nonfree				install
+dash						install
+davtest						install
+dbd						install
+dbus						install
+dbus-user-session				install
+dbus-x11					install
+dconf-cli					install
+dconf-gsettings-backend:amd64			install
+dconf-service					install
+dcraw						install
+debconf						install
+debconf-i18n					install
+debian-archive-keyring				install
+debian-faq					install
+debianutils					install
+debtags						install
+default-jre					install
+default-jre-headless				install
+default-mysql-server				install
+desktop-base					install
+desktop-file-utils				install
+dh-python					install
+dictionaries-common				install
+diffutils					install
+dirb						install
+dirbuster					install
+dirmngr						install
+distro-info-data				install
+dleyna-server					install
+dmeventd					install
+dmidecode					install
+dmitry						install
+dmsetup						install
+dns-root-data					install
+dns2tcp						install
+dnschef						install
+dnsenum						install
+dnsmasq-base					install
+dnsrecon					install
+dnsutils					install
+doc-debian					install
+dos2unix					install
+dosfstools					install
+dpkg						install
+dpkg-dev					install
+e2fsprogs					install
+easy-rsa					install
+eatmydata					install
+eject						install
+emacsen-common					install
+enchant						install
+enchant-2					install
+enum4linux					install
+eog						install
+espeak-ng-data:amd64				install
+ethtool						install
+ettercap-common					install
+ettercap-graphical				install
+evince						install
+evince-common					install
+evolution-data-server				install
+evolution-data-server-common			install
+exe2hexbat					install
+exfat-fuse					install
+exfat-utils					install
+exim4-base					install
+exim4-config					install
+exim4-daemon-light				install
+exiv2						install
+expect						install
+exploitdb					install
+fakeroot					install
+faraday						install
+fastjar						install
+fdisk						install
+fern-wifi-cracker				install
+fierce						install
+figlet						install
+file						install
+file-roller					install
+findmyhash					install
+findutils					install
+finger						install
+firebird3.0-common				install
+firebird3.0-common-doc				install
+firefox-esr					install
+firmware-amd-graphics				install
+firmware-ath9k-htc				install
+firmware-atheros				install
+firmware-b43-installer				install
+firmware-b43legacy-installer			install
+firmware-bnx2					install
+firmware-bnx2x					install
+firmware-brcm80211				install
+firmware-cavium					install
+firmware-intel-sound				install
+firmware-intelwimax				install
+firmware-ipw2x00				install
+firmware-ivtv					install
+firmware-iwlwifi				install
+firmware-libertas				install
+firmware-linux					install
+firmware-linux-free				install
+firmware-linux-nonfree				install
+firmware-misc-nonfree				install
+firmware-myricom				install
+firmware-netronome				install
+firmware-netxen					install
+firmware-qcom-media				install
+firmware-qlogic					install
+firmware-ralink					install
+firmware-realtek				install
+firmware-samsung				install
+firmware-siano					install
+firmware-ti-connectivity			install
+firmware-zd1211					install
+flac						install
+flex						install
+florence					install
+folks-common					install
+fontconfig					install
+fontconfig-config				install
+fonts-cantarell					install
+fonts-dejavu					install
+fonts-dejavu-core				install
+fonts-dejavu-extra				install
+fonts-droid-fallback				install
+fonts-firacode					install
+fonts-font-awesome				install
+fonts-glyphicons-halflings			install
+fonts-hack					install
+fonts-lato					install
+fonts-liberation				install
+fonts-lyx					install
+fonts-noto-color-emoji				install
+fonts-noto-mono					install
+fonts-quicksand					install
+fonts-roboto-slab				install
+fonts-urw-base35				install
+fping						install
+freeglut3:amd64					install
+freerdp2-x11					install
+freetds-common					install
+ftp						install
+fuse						install
+fwupd						install
+fwupd-amd64-signed				install
+g++						install
+g++-9						install
+galera-3					install
+gawk						install
+gcc						install
+gcc-10-base:amd64				install
+gcc-8						install
+gcc-8-base:amd64				install
+gcc-9						install
+gcc-9-base:amd64				install
+gcr						install
+gdal-data					install
+gdisk						install
+gdm3						install
+gedit						install
+gedit-common					install
+geoclue-2.0					install
+geoip-database					install
+gettext-base					install
+gir1.2-accountsservice-1.0:amd64		install
+gir1.2-atk-1.0:amd64				install
+gir1.2-atspi-2.0:amd64				install
+gir1.2-caribou-1.0				install
+gir1.2-clutter-1.0:amd64			install
+gir1.2-clutter-gst-3.0:amd64			install
+gir1.2-cogl-1.0:amd64				install
+gir1.2-coglpango-1.0:amd64			install
+gir1.2-evince-3.0:amd64				install
+gir1.2-freedesktop:amd64			install
+gir1.2-gck-1:amd64				install
+gir1.2-gcr-3:amd64				install
+gir1.2-gdesktopenums-3.0:amd64			install
+gir1.2-gdkpixbuf-2.0:amd64			install
+gir1.2-gdm-1.0:amd64				install
+gir1.2-geoclue-2.0:amd64			install
+gir1.2-glib-2.0:amd64				install
+gir1.2-gmenu-3.0:amd64				install
+gir1.2-gnomebluetooth-1.0:amd64			install
+gir1.2-gnomedesktop-3.0:amd64			install
+gir1.2-gst-plugins-base-1.0:amd64		install
+gir1.2-gstreamer-1.0:amd64			install
+gir1.2-gtk-3.0:amd64				install
+gir1.2-gtkclutter-1.0:amd64			install
+gir1.2-gtksource-3.0:amd64			install
+gir1.2-gtksource-4:amd64			install
+gir1.2-gweather-3.0:amd64			install
+gir1.2-handy-0.0:amd64				install
+gir1.2-ibus-1.0:amd64				install
+gir1.2-javascriptcoregtk-4.0:amd64		install
+gir1.2-json-1.0:amd64				install
+gir1.2-mutter-3:amd64				install
+gir1.2-mutter-5:amd64				install
+gir1.2-nm-1.0:amd64				install
+gir1.2-nma-1.0:amd64				install
+gir1.2-notify-0.7:amd64				install
+gir1.2-packagekitglib-1.0			install
+gir1.2-pango-1.0:amd64				install
+gir1.2-peas-1.0:amd64				install
+gir1.2-polkit-1.0				install
+gir1.2-rsvg-2.0:amd64				install
+gir1.2-secret-1:amd64				install
+gir1.2-soup-2.4:amd64				install
+gir1.2-totem-1.0:amd64				install
+gir1.2-totemplparser-1.0:amd64			install
+gir1.2-upowerglib-1.0:amd64			install
+gir1.2-vte-2.91:amd64				install
+gir1.2-webkit2-4.0:amd64			install
+gir1.2-wnck-3.0:amd64				install
+git						install
+git-man						install
+gjs						install
+gkbd-capplet					install
+glib-networking:amd64				install
+glib-networking-common				install
+glib-networking-services			install
+gnome-accessibility-themes			install
+gnome-backgrounds				install
+gnome-bluetooth					install
+gnome-brave-icon-theme				install
+gnome-calculator				install
+gnome-characters				install
+gnome-colors-common				install
+gnome-contacts					install
+gnome-control-center				install
+gnome-control-center-data			install
+gnome-desktop3-data				install
+gnome-disk-utility				install
+gnome-font-viewer				install
+gnome-icon-theme				install
+gnome-keyring					install
+gnome-keyring-pkcs11:amd64			install
+gnome-logs					install
+gnome-menus					install
+gnome-online-accounts				install
+gnome-online-miners				install
+gnome-orca					install
+gnome-session					install
+gnome-session-bin				install
+gnome-session-common				install
+gnome-settings-daemon				install
+gnome-settings-daemon-common			install
+gnome-shell					install
+gnome-shell-common				install
+gnome-shell-extension-dashtodock		install
+gnome-shell-extension-desktop-icons		install
+gnome-shell-extension-easyscreencast		install
+gnome-shell-extension-proxyswitcher		install
+gnome-shell-extension-workspaces-to-dock	install
+gnome-shell-extensions				install
+gnome-software					install
+gnome-software-common				install
+gnome-sushi					install
+gnome-system-monitor				install
+gnome-terminal					install
+gnome-terminal-data				install
+gnome-theme-kali				install
+gnome-themes-extra:amd64			install
+gnome-themes-extra-data				install
+gnome-tweak-tool				install
+gnome-tweaks					install
+gnome-user-docs					install
+gnome-user-share				install
+gnupg						install
+gnupg-l10n					install
+gnupg-utils					install
+gparted						install
+gparted-common					install
+gpg						install
+gpg-agent					install
+gpg-wks-client					install
+gpg-wks-server					install
+gpgconf						install
+gpgsm						install
+gpgv						install
+gpp-decrypt					install
+graphviz					install
+grep						install
+grilo-plugins-0.3:amd64				install
+groff-base					install
+grub-common					install
+grub-pc						install
+grub-pc-bin					install
+grub2-common					install
+gsettings-desktop-schemas			install
+gsfonts						install
+gsfonts-x11					install
+gstreamer1.0-clutter-3.0:amd64			install
+gstreamer1.0-gl:amd64				install
+gstreamer1.0-libav:amd64			install
+gstreamer1.0-packagekit				install
+gstreamer1.0-plugins-bad:amd64			install
+gstreamer1.0-plugins-base:amd64			install
+gstreamer1.0-plugins-good:amd64			install
+gstreamer1.0-plugins-ugly:amd64			install
+gstreamer1.0-pulseaudio:amd64			install
+gstreamer1.0-x:amd64				install
+gtk-update-icon-cache				install
+gtk2-engines-murrine:amd64			install
+gtk2-engines-pixbuf:amd64			install
+guile-2.2-libs:amd64				install
+guymager					install
+gvfs:amd64					install
+gvfs-backends					install
+gvfs-common					install
+gvfs-daemons					install
+gvfs-libs:amd64					install
+gzip						install
+hash-identifier					install
+hashcat						install
+hashcat-data					install
+hashcat-utils					install
+hashdeep					install
+hashid						install
+haveged						install
+hdmi2usb-fx2-firmware				install
+hdparm						install
+hicolor-icon-theme				install
+hostname					install
+hotpatch					install
+hping3						install
+hunspell-en-us					install
+hwloc						install
+hydra						install
+hydra-gtk					install
+hyperion					install
+i2c-tools					install
+i965-va-driver:amd64				install
+ibus						install
+ibus-data					install
+ibus-gtk:amd64					install
+ibus-gtk3:amd64					install
+ibverbs-providers:amd64				install
+ieee-data					install
+ifenslave					install
+ifupdown					install
+iio-sensor-proxy				install
+ike-scan					install
+im-config					install
+impacket-scripts				install
+inetsim						install
+init						install
+init-system-helpers				install
+initramfs-tools					install
+initramfs-tools-core				install
+intel-media-va-driver:amd64			install
+intel-microcode					install
+iodine						install
+iproute2					install
+iptables					install
+iputils-ping					install
+ipython						install
+ipython3					install
+isc-dhcp-client					install
+isc-dhcp-common					install
+iso-codes					install
+iucode-tool					install
+iw						install
+ixo-usb-jtag					install
+jarwrapper					install
+java-common					install
+java-wrappers					install
+javascript-common				install
+john						install
+john-data					install
+kali-archive-keyring				install
+kali-debtags					install
+kali-defaults					install
+kali-desktop-base				install
+kali-desktop-core				install
+kali-desktop-live				install
+kali-grant-root					install
+kali-linux-core					install
+kali-linux-default				install
+kali-menu					install
+kali-root-login					install
+kali-themes					install
+kali-themes-common				install
+kbd						install
+keyboard-configuration				install
+keyutils					install
+king-phisher					install
+kismet						install
+kismet-capture-common				install
+kismet-capture-linux-bluetooth			install
+kismet-capture-linux-wifi			install
+kismet-capture-nrf-mousejack			install
+kismet-core					install
+kismet-logtools					install
+klibc-utils					install
+kmod						install
+krb5-locales					install
+laudanum					install
+lbd						install
+ldap-utils					install
+legion						install
+less						install
+lib32gcc-s1					install
+lib32gcc1					install
+lib32stdc++6					install
+liba52-0.7.4:amd64				install
+libaa1:amd64					install
+libaacs0:amd64					install
+libaccountsservice0:amd64			install
+libacl1:amd64					install
+libadns1					install
+libaec0:amd64					install
+libafflib0v5					install
+libaio1:amd64					install
+libalgorithm-diff-perl				install
+libalgorithm-diff-xs-perl			install
+libalgorithm-merge-perl				install
+libann0						install
+libao-common					install
+libao4:amd64					install
+libaom0:amd64					install
+libapache2-mod-dnssd				install
+libapache2-mod-php				install
+libapache2-mod-php7.3				install
+libapparmor1:amd64				install
+libappstream-glib8:amd64			install
+libappstream4:amd64				install
+libapr1:amd64					install
+libaprutil1:amd64				install
+libaprutil1-dbd-sqlite3:amd64			install
+libaprutil1-ldap:amd64				install
+libapt-inst2.0:amd64				install
+libapt-pkg5.0:amd64				install
+libarchive13:amd64				install
+libargon2-1:amd64				install
+libarmadillo9					install
+libarpack2:amd64				install
+libasan5:amd64					install
+libasound2:amd64				install
+libasound2-data					install
+libasound2-plugins:amd64			install
+libaspell15:amd64				install
+libass9:amd64					install
+libassuan0:amd64				install
+libasyncns0:amd64				install
+libatasmart4:amd64				install
+libatk-adaptor:amd64				install
+libatk-bridge2.0-0:amd64			install
+libatk-wrapper-java				install
+libatk-wrapper-java-jni:amd64			install
+libatk1.0-0:amd64				install
+libatk1.0-data					install
+libatkmm-1.6-1v5:amd64				install
+libatomic1:amd64				install
+libatspi2.0-0:amd64				install
+libattr1:amd64					install
+libaudio2:amd64					install
+libaudit-common					install
+libaudit1:amd64					install
+libauthen-sasl-perl				install
+libavahi-client3:amd64				install
+libavahi-common-data:amd64			install
+libavahi-common3:amd64				install
+libavahi-core7:amd64				install
+libavahi-glib1:amd64				install
+libavc1394-0:amd64				install
+libavcodec58:amd64				install
+libavfilter7:amd64				install
+libavformat58:amd64				install
+libavresample4:amd64				install
+libavutil56:amd64				install
+libayatana-appindicator3-1			install
+libayatana-ido3-0.4-0:amd64			install
+libayatana-indicator3-7:amd64			install
+libbdplus0:amd64				install
+libbfio1:amd64					install
+libbind9-161:amd64				install
+libbinutils:amd64				install
+libblas3:amd64					install
+libblkid1:amd64					install
+libblockdev-crypto2:amd64			install
+libblockdev-fs2:amd64				install
+libblockdev-loop2:amd64				install
+libblockdev-part-err2:amd64			install
+libblockdev-part2:amd64				install
+libblockdev-swap2:amd64				install
+libblockdev-utils2:amd64			install
+libblockdev2:amd64				install
+libblosc1					install
+libbluetooth3:amd64				install
+libbluray2:amd64				install
+libboost-atomic1.67.0:amd64			install
+libboost-chrono1.67.0:amd64			install
+libboost-date-time1.67.0:amd64			install
+libboost-filesystem1.67.0:amd64			install
+libboost-iostreams1.67.0:amd64			install
+libboost-python1.67.0				install
+libboost-regex1.67.0:amd64			install
+libboost-system1.67.0:amd64			install
+libboost-thread1.67.0:amd64			install
+libbrlapi0.6:amd64				install
+libbrlapi0.7:amd64				install
+libbrotli1:amd64				install
+libbs2b0:amd64					install
+libbsd0:amd64					install
+libbson-1.0-0					install
+libbytes-random-secure-perl			install
+libbz2-1.0:amd64				install
+libc-ares2:amd64				install
+libc-bin					install
+libc-dev-bin					install
+libc-l10n					install
+libc6:amd64					install
+libc6-dev:amd64					install
+libc6-i386					install
+libcaca0:amd64					install
+libcairo-gobject-perl				install
+libcairo-gobject2:amd64				install
+libcairo-perl					install
+libcairo2:amd64					install
+libcairomm-1.0-1v5:amd64			install
+libcamel-1.2-62:amd64				install
+libcanberra-gtk-module:amd64			install
+libcanberra-gtk0:amd64				install
+libcanberra-gtk3-0:amd64			install
+libcanberra-gtk3-module:amd64			install
+libcanberra-pulse:amd64				install
+libcanberra0:amd64				install
+libcap-ng0:amd64				install
+libcap2:amd64					install
+libcap2-bin					install
+libcapstone-dev:amd64				install
+libcapstone3:amd64				install
+libcaribou-common				install
+libcaribou0:amd64				install
+libcbor0:amd64					install
+libcc1-0:amd64					install
+libccid						install
+libcdio-cdda2:amd64				install
+libcdio-paranoia2:amd64				install
+libcdio18:amd64					install
+libcdparanoia0:amd64				install
+libcdt5:amd64					install
+libcephfs2					install
+libcfitsio8:amd64				install
+libcgi-fast-perl				install
+libcgi-pm-perl					install
+libcgraph6:amd64				install
+libcharls2:amd64				install
+libcheese-gtk25:amd64				install
+libcheese8:amd64				install
+libchromaprint1:amd64				install
+libclang-common-6.0-dev				install
+libclang-common-8-dev				install
+libclang-common-9-dev				install
+libclang-cpp9					install
+libclang1-6.0					install
+libclang1-8					install
+libcli1.10:amd64				install
+libclutter-1.0-0:amd64				install
+libclutter-1.0-common				install
+libclutter-gst-3.0-0:amd64			install
+libclutter-gtk-1.0-0:amd64			install
+libcodec2-0.8.1:amd64				install
+libcodec2-0.9:amd64				install
+libcogl-common					install
+libcogl-pango20:amd64				install
+libcogl-path20:amd64				install
+libcogl20:amd64					install
+libcolord-gtk1:amd64				install
+libcolord2:amd64				install
+libcolorhug2:amd64				install
+libcom-err2:amd64				install
+libconfig-inifiles-perl				install
+libconfig9:amd64				install
+libcrack2:amd64					install
+libcroco3:amd64					install
+libcrypt-dev:amd64				install
+libcrypt-random-seed-perl			install
+libcrypt-ssleay-perl				install
+libcrypt1:amd64					install
+libcryptsetup12:amd64				install
+libct4:amd64					install
+libctf-nobfd0:amd64				install
+libctf0:amd64					install
+libcue2:amd64					install
+libcups2:amd64					install
+libcupsfilters1:amd64				install
+libcupsimage2:amd64				install
+libcurl3-gnutls:amd64				install
+libcurl4:amd64					install
+libdaemon0:amd64				install
+libdap25:amd64					install
+libdapclient6v5:amd64				install
+libdata-dump-perl				install
+libdate-manip-perl				install
+libdatrie1:amd64				install
+libdb5.3:amd64					install
+libdbd-mysql-perl:amd64				install
+libdbi-perl:amd64				install
+libdbus-1-3:amd64				install
+libdbus-glib-1-2:amd64				install
+libdbusmenu-glib4:amd64				install
+libdbusmenu-gtk3-4:amd64			install
+libdc1394-22:amd64				install
+libdca0:amd64					install
+libdconf1:amd64					install
+libde265-0:amd64				install
+libdebconfclient0:amd64				install
+libdevmapper-event1.02.1:amd64			install
+libdevmapper1.02.1:amd64			install
+libdigest-bubblebabble-perl			install
+libdigest-hmac-perl				install
+libdjvulibre-text				install
+libdjvulibre21:amd64				install
+libdleyna-connector-dbus-1.0-1:amd64		install
+libdleyna-core-1.0-3:amd64			install
+libdleyna-core-1.0-5:amd64			install
+libdmapsharing-3.0-2:amd64			install
+libdns-export1104				install
+libdns-export1109				install
+libdns1104:amd64				install
+libdns1109:amd64				install
+libdotconf0:amd64				install
+libdouble-conversion3:amd64			install
+libdpkg-perl					install
+libdrm-amdgpu1:amd64				install
+libdrm-common					install
+libdrm-intel1:amd64				install
+libdrm-nouveau2:amd64				install
+libdrm-radeon1:amd64				install
+libdrm2:amd64					install
+libdumbnet-dev					install
+libdumbnet1:amd64				install
+libdv4:amd64					install
+libdvdnav4:amd64				install
+libdvdread4:amd64				install
+libdvdread7:amd64				install
+libdw1:amd64					install
+libeatmydata1:amd64				install
+libebackend-1.2-10:amd64			install
+libebook-1.2-20:amd64				install
+libebook-contacts-1.2-2:amd64			install
+libebook-contacts-1.2-3:amd64			install
+libecal-1.2-19:amd64				install
+libecal-2.0-1:amd64				install
+libedata-book-1.2-26:amd64			install
+libedata-cal-2.0-1:amd64			install
+libedataserver-1.2-23:amd64			install
+libedataserver-1.2-24:amd64			install
+libedataserverui-1.2-2:amd64			install
+libedit2:amd64					install
+libefiboot1:amd64				install
+libefivar1:amd64				install
+libegl-mesa0:amd64				install
+libegl1:amd64					install
+libelf1:amd64					install
+libemu2						install
+libenchant-2-2:amd64				install
+libenchant1c2a:amd64				install
+libencode-locale-perl				install
+libepoxy0:amd64					install
+libepsilon1:amd64				install
+liberror-perl					install
+libespeak-ng1:amd64				install
+libestr0:amd64					install
+libevdev2:amd64					install
+libevdocument3-4:amd64				install
+libevent-2.1-6:amd64				install
+libevent-2.1-7:amd64				install
+libevent-core-2.1-6:amd64			install
+libevent-core-2.1-7:amd64			install
+libevent-openssl-2.1-6:amd64			install
+libevent-openssl-2.1-7:amd64			install
+libevent-pthreads-2.1-6:amd64			install
+libevent-pthreads-2.1-7:amd64			install
+libevview3-3:amd64				install
+libewf2						install
+libexempi8:amd64				install
+libexif12:amd64					install
+libexiv2-14:amd64				install
+libexiv2-27:amd64				install
+libexpat1:amd64					install
+libexpat1-dev:amd64				install
+libext2fs2:amd64				install
+libextutils-depends-perl			install
+libextutils-pkgconfig-perl			install
+libfaad2:amd64					install
+libfakeroot:amd64				install
+libfastjson4:amd64				install
+libfbclient2:amd64				install
+libfcgi-perl					install
+libfdisk1:amd64					install
+libffi-dev:amd64				install
+libffi6:amd64					install
+libffi7:amd64					install
+libfftw3-double3:amd64				install
+libfido2-1:amd64				install
+libfile-basedir-perl				install
+libfile-desktopentry-perl			install
+libfile-fcntllock-perl				install
+libfile-listing-perl				install
+libfile-mimeinfo-perl				install
+libfl-dev:amd64					install
+libfl2:amd64					install
+libflac8:amd64					install
+libflite1:amd64					install
+libflorence-1.0-1:amd64				install
+libfluidsynth1:amd64				install
+libfluidsynth2:amd64				install
+libfolks-eds25:amd64				install
+libfolks25:amd64				install
+libfont-afm-perl				install
+libfontconfig1:amd64				install
+libfontenc1:amd64				install
+libfreerdp-client2-2:amd64			install
+libfreerdp2-2:amd64				install
+libfreetype6:amd64				install
+libfreexl1:amd64				install
+libfribidi0:amd64				install
+libfstrm0:amd64					install
+libfuse2:amd64					install
+libfwupd2:amd64					install
+libfwupdplugin1:amd64				install
+libfyba0:amd64					install
+libgail-common:amd64				install
+libgail18:amd64					install
+libgbm1:amd64					install
+libgc1c2:amd64					install
+libgcab-1.0-0:amd64				install
+libgcc-8-dev:amd64				install
+libgcc-9-dev:amd64				install
+libgcc-s1:amd64					install
+libgcc1						install
+libgck-1-0:amd64				install
+libgcr-base-3-1:amd64				install
+libgcr-ui-3-1:amd64				install
+libgcrypt20:amd64				install
+libgd3:amd64					install
+libgdal26					install
+libgdata-common					install
+libgdata22:amd64				install
+libgdbm-compat4:amd64				install
+libgdbm6:amd64					install
+libgdk-pixbuf2.0-0:amd64			install
+libgdk-pixbuf2.0-bin				install
+libgdk-pixbuf2.0-common				install
+libgdm1						install
+libgee-0.8-2:amd64				install
+libgeoclue-2-0:amd64				install
+libgeocode-glib0:amd64				install
+libgeoip1:amd64					install
+libgeos-3.7.2:amd64				install
+libgeos-3.8.0:amd64				install
+libgeos-c1v5:amd64				install
+libgeotiff5:amd64				install
+libgexiv2-2:amd64				install
+libgfapi0:amd64					install
+libgfbgraph-0.2-0:amd64				install
+libgfortran5:amd64				install
+libgfrpc0:amd64					install
+libgfxdr0:amd64					install
+libgif7:amd64					install
+libgirepository-1.0-1:amd64			install
+libgjs0g					install
+libgl1:amd64					install
+libgl1-mesa-dri:amd64				install
+libglapi-mesa:amd64				install
+libgles2:amd64					install
+libglib-object-introspection-perl		install
+libglib-perl:amd64				install
+libglib2.0-0:amd64				install
+libglib2.0-bin					install
+libglib2.0-data					install
+libglibmm-2.4-1v5:amd64				install
+libglu1-mesa:amd64				install
+libglusterfs0:amd64				install
+libglvnd0:amd64					install
+libglx-mesa0:amd64				install
+libglx0:amd64					install
+libgme0:amd64					install
+libgmp-dev:amd64				install
+libgmp10:amd64					install
+libgmpxx4ldbl:amd64				install
+libgnome-autoar-0-0:amd64			install
+libgnome-bluetooth13:amd64			install
+libgnome-desktop-3-17:amd64			install
+libgnome-desktop-3-18:amd64			install
+libgnome-menu-3-0:amd64				install
+libgnomekbd-common				install
+libgnomekbd8:amd64				install
+libgnutls-dane0:amd64				install
+libgnutls30:amd64				install
+libgoa-1.0-0b:amd64				install
+libgoa-1.0-common				install
+libgoa-backend-1.0-1:amd64			install
+libgom-1.0-0:amd64				install
+libgomp1:amd64					install
+libgpg-error0:amd64				install
+libgpgme11:amd64				install
+libgphoto2-6:amd64				install
+libgphoto2-l10n					install
+libgphoto2-port12:amd64				install
+libgpm2:amd64					install
+libgraphene-1.0-0:amd64				install
+libgraphite2-3:amd64				install
+libgrilo-0.3-0:amd64				install
+libgs9:amd64					install
+libgs9-common					install
+libgsasl7:amd64					install
+libgsf-1-114:amd64				install
+libgsf-1-common					install
+libgsm1:amd64					install
+libgsound0:amd64				install
+libgspell-1-1:amd64				install
+libgspell-1-2:amd64				install
+libgspell-1-common				install
+libgssapi-krb5-2:amd64				install
+libgssdp-1.0-3:amd64				install
+libgssdp-1.2-0:amd64				install
+libgssglue1:amd64				install
+libgstreamer-gl1.0-0:amd64			install
+libgstreamer-plugins-bad1.0-0:amd64		install
+libgstreamer-plugins-base1.0-0:amd64		install
+libgstreamer1.0-0:amd64				install
+libgtk-3-0:amd64				install
+libgtk-3-bin					install
+libgtk-3-common					install
+libgtk2.0-0:amd64				install
+libgtk2.0-bin					install
+libgtk2.0-common				install
+libgtk3-perl					install
+libgtkmm-2.4-1v5:amd64				install
+libgtkmm-3.0-1v5:amd64				install
+libgtksourceview-3.0-1:amd64			install
+libgtksourceview-3.0-common			install
+libgtksourceview-4-0:amd64			install
+libgtksourceview-4-common			install
+libgtksourceview2.0-0:amd64			install
+libgtksourceview2.0-common			install
+libgtop-2.0-11:amd64				install
+libgtop2-common					install
+libgts-0.7-5:amd64				install
+libgts-bin					install
+libgudev-1.0-0:amd64				install
+libgupnp-1.0-4:amd64				install
+libgupnp-1.2-0:amd64				install
+libgupnp-av-1.0-2				install
+libgupnp-dlna-2.0-3				install
+libgupnp-igd-1.0-4:amd64			install
+libgusb2:amd64					install
+libguytools2					install
+libgvc6						install
+libgvpr2:amd64					install
+libgweather-3-15:amd64				install
+libgweather-3-16:amd64				install
+libgweather-common				install
+libgxps2:amd64					install
+libhandy-0.0-0:amd64				install
+libharfbuzz-icu0:amd64				install
+libharfbuzz0b:amd64				install
+libhavege1:amd64				install
+libhavege2:amd64				install
+libhdf4-0-alt					install
+libhdf5-103:amd64				install
+libhogweed4:amd64				install
+libhogweed5:amd64				install
+libhtml-form-perl				install
+libhtml-format-perl				install
+libhtml-parser-perl				install
+libhtml-tagset-perl				install
+libhtml-template-perl				install
+libhtml-tree-perl				install
+libhttp-cookies-perl				install
+libhttp-daemon-perl				install
+libhttp-date-perl				install
+libhttp-dav-perl				install
+libhttp-message-perl				install
+libhttp-negotiate-perl				install
+libhttp-server-simple-perl			install
+libhunspell-1.7-0:amd64				install
+libhwloc-plugins:amd64				install
+libhwloc15:amd64				install
+libhwloc5:amd64					install
+libhyphen0:amd64				install
+libi2c0:amd64					install
+libibus-1.0-5:amd64				install
+libibverbs1:amd64				install
+libical3:amd64					install
+libice6:amd64					install
+libicu63:amd64					install
+libidn11:amd64					install
+libidn2-0:amd64					install
+libiec61883-0:amd64				install
+libieee1284-3:amd64				install
+libigdgmm11:amd64				install
+libigdgmm9:amd64				install
+libijs-0.35:amd64				install
+libilmbase23:amd64				install
+libilmbase24:amd64				install
+libimagequant0:amd64				install
+libimobiledevice6:amd64				install
+libinput-bin					install
+libinput10:amd64				install
+libio-html-perl					install
+libio-multiplex-perl				install
+libio-socket-inet6-perl				install
+libio-socket-ssl-perl				install
+libio-stringy-perl				install
+libip4tc2:amd64					install
+libip6tc2:amd64					install
+libipc-shareable-perl				install
+libipc-system-simple-perl			install
+libiptc0:amd64					install
+libiptcdata0					install
+libirs161:amd64					install
+libisc-export1100:amd64				install
+libisc-export1105:amd64				install
+libisc1100:amd64				install
+libisc1105:amd64				install
+libisccc161:amd64				install
+libisccfg163:amd64				install
+libisl19:amd64					install
+libisl22:amd64					install
+libitm1:amd64					install
+libiw30:amd64					install
+libjack-jackd2-0:amd64				install
+libjansson4:amd64				install
+libjavascriptcoregtk-4.0-18:amd64		install
+libjbig0:amd64					install
+libjbig2dec0:amd64				install
+libjim0.77:amd64				install
+libjim0.79:amd64				install
+libjpeg-turbo-progs				install
+libjpeg62-turbo:amd64				install
+libjs-jquery					install
+libjs-jquery-ui					install
+libjs-skeleton					install
+libjs-sphinxdoc					install
+libjs-underscore				install
+libjson-c4:amd64				install
+libjson-glib-1.0-0:amd64			install
+libjson-glib-1.0-common				install
+libjsoncpp1:amd64				install
+libjudydebian1					install
+libk5crypto3:amd64				install
+libkate1:amd64					install
+libkeyutils1:amd64				install
+libklibc:amd64					install
+libkmlbase1:amd64				install
+libkmldom1:amd64				install
+libkmlengine1:amd64				install
+libkmod2:amd64					install
+libkpathsea6:amd64				install
+libkrb5-3:amd64					install
+libkrb5support0:amd64				install
+libksba8:amd64					install
+libkyotocabinet16v5:amd64			install
+liblab-gamut1:amd64				install
+liblapack3:amd64				install
+liblbfgsb0:amd64				install
+liblcms2-2:amd64				install
+libldap-2.4-2:amd64				install
+libldap-common					install
+libldb2:amd64					install
+liblilv-0-0:amd64				install
+liblinear3:amd64				install
+liblinear4:amd64				install
+liblirc-client0:amd64				install
+libllvm6.0:amd64				install
+libllvm7:amd64					install
+libllvm8:amd64					install
+libllvm9:amd64					install
+liblmdb0:amd64					install
+liblocale-gettext-perl				install
+liblockfile-bin					install
+liblognorm5:amd64				install
+liblouis-data					install
+liblouis17:amd64				install
+liblouis20:amd64				install
+liblsan0:amd64					install
+libltdl7:amd64					install
+liblua5.2-0:amd64				install
+liblua5.3-0:amd64				install
+libluajit-5.1-2:amd64				install
+libluajit-5.1-common				install
+liblvm2cmd2.03:amd64				install
+liblwp-mediatypes-perl				install
+liblwp-protocol-https-perl			install
+liblwres161:amd64				install
+liblz4-1:amd64					install
+liblz4-dev:amd64				install
+liblzma5:amd64					install
+liblzo2-2:amd64					install
+libmagic-dev:amd64				install
+libmagic-mgc					install
+libmagic1:amd64					install
+libmailtools-perl				install
+libmailutils6:amd64				install
+libmariadb3:amd64				install
+libmath-random-isaac-perl			install
+libmath-random-isaac-xs-perl			install
+libmaxminddb0:amd64				install
+libmbim-glib4:amd64				install
+libmbim-proxy					install
+libmediaart-2.0-0:amd64				install
+libmemcached11:amd64				install
+libmicrohttpd12					install
+libminizip1:amd64				install
+libmjpegutils-2.1-0:amd64			install
+libmm-glib0:amd64				install
+libmms0:amd64					install
+libmng1:amd64					install
+libmnl0:amd64					install
+libmodplug1:amd64				install
+libmongoc-1.0-0					install
+libmotif-common					install
+libmount1:amd64					install
+libmozjs-60-0:amd64				install
+libmp3lame0:amd64				install
+libmpc3:amd64					install
+libmpcdec6:amd64				install
+libmpdec2:amd64					install
+libmpeg2-4:amd64				install
+libmpeg2encpp-2.1-0:amd64			install
+libmpfr6:amd64					install
+libmpg123-0:amd64				install
+libmplex2-2.1-0:amd64				install
+libmpx2:amd64					install
+libmtdev1:amd64					install
+libmtp-common					install
+libmtp-runtime					install
+libmtp9:amd64					install
+libmusicbrainz5-2:amd64				install
+libmusicbrainz5cc2v5:amd64			install
+libmutter-3-0:amd64				install
+libmutter-5-0:amd64				install
+libmysofa0:amd64				install
+libmysofa1:amd64				install
+libnautilus-extension1a:amd64			install
+libncurses-dev:amd64				install
+libncurses5:amd64				install
+libncurses6:amd64				install
+libncursesw6:amd64				install
+libndp0:amd64					install
+libneon27-gnutls:amd64				install
+libnet-cidr-perl				install
+libnet-dbus-perl				install
+libnet-dns-perl					install
+libnet-dns-sec-perl				install
+libnet-http-perl				install
+libnet-ip-perl					install
+libnet-libidn-perl				install
+libnet-netmask-perl				install
+libnet-server-perl				install
+libnet-smtp-ssl-perl				install
+libnet-snmp-perl				install
+libnet-ssleay-perl				install
+libnet-whois-ip-perl				install
+libnet1:amd64					install
+libnetcdf15:amd64				install
+libnetfilter-conntrack3:amd64			install
+libnetfilter-queue1				install
+libnettle6:amd64				install
+libnettle7:amd64				install
+libnewt0.52:amd64				install
+libnfnetlink0:amd64				install
+libnfs13:amd64					install
+libnfsidmap2:amd64				install
+libnftnl11:amd64				install
+libnghttp2-14:amd64				install
+libnginx-mod-http-auth-pam			install
+libnginx-mod-http-dav-ext			install
+libnginx-mod-http-echo				install
+libnginx-mod-http-geoip				install
+libnginx-mod-http-image-filter			install
+libnginx-mod-http-subs-filter			install
+libnginx-mod-http-upstream-fair			install
+libnginx-mod-http-xslt-filter			install
+libnginx-mod-mail				install
+libnginx-mod-stream				install
+libnice10:amd64					install
+libnl-3-200:amd64				install
+libnl-genl-3-200:amd64				install
+libnl-route-3-200:amd64				install
+libnm0:amd64					install
+libnma0:amd64					install
+libnorm1:amd64					install
+libnotify4:amd64				install
+libnpth0:amd64					install
+libnspr4:amd64					install
+libnss-mdns:amd64				install
+libnss-myhostname:amd64				install
+libnss-systemd:amd64				install
+libnss3:amd64					install
+libntfs-3g883					install
+libntlm0:amd64					install
+libnuma1:amd64					install
+libnumber-bytes-human-perl			install
+liboauth0:amd64					install
+libobjc-8-dev:amd64				install
+libobjc-9-dev:amd64				install
+libobjc4:amd64					install
+libodbc1:amd64					install
+libofa0:amd64					install
+libogdi4.1					install
+libogg0:amd64					install
+libomp-8-dev					install
+libomp-dev					install
+libomp5-8:amd64					install
+libopenal-data					install
+libopenal1:amd64				install
+libopencore-amrnb0:amd64			install
+libopencore-amrwb0:amd64			install
+libopenexr23:amd64				install
+libopenexr24:amd64				install
+libopenjp2-7:amd64				install
+libopenmpt0:amd64				install
+libopts25:amd64					install
+libopus0:amd64					install
+liborc-0.4-0:amd64				install
+libosinfo-1.0-0:amd64				install
+libout123-0:amd64				install
+libp11-kit0:amd64				install
+libpackagekit-glib2-18:amd64			install
+libpam-gnome-keyring:amd64			install
+libpam-modules:amd64				install
+libpam-modules-bin				install
+libpam-runtime					install
+libpam-systemd:amd64				install
+libpam0g:amd64					install
+libpango-1.0-0:amd64				install
+libpangocairo-1.0-0:amd64			install
+libpangoft2-1.0-0:amd64				install
+libpangomm-1.4-1v5:amd64			install
+libpangoxft-1.0-0:amd64				install
+libpaper-utils					install
+libpaper1:amd64					install
+libparted-fs-resize0:amd64			install
+libparted2:amd64				install
+libpathplan4:amd64				install
+libpcap0.8:amd64				install
+libpcap0.8-dev:amd64				install
+libpcaudio0:amd64				install
+libpci3:amd64					install
+libpciaccess0:amd64				install
+libpcre16-3:amd64				install
+libpcre2-16-0:amd64				install
+libpcre2-8-0:amd64				install
+libpcre3:amd64					install
+libpcre3-dev:amd64				install
+libpcre32-3:amd64				install
+libpcrecpp0v5:amd64				install
+libpcsclite1:amd64				install
+libpeas-1.0-0:amd64				install
+libpeas-common					install
+libperl4-corelibs-perl				install
+libperl5.28:amd64				install
+libperl5.30:amd64				install
+libpfm4:amd64					install
+libpgm-5.2-0:amd64				install
+libphonenumber7:amd64				install
+libpipeline1:amd64				install
+libpipewire-0.2-1:amd64				install
+libpixman-1-0:amd64				install
+libpkcs11-helper1:amd64				install
+libplist3:amd64					install
+libplymouth4:amd64				install
+libpng16-16:amd64				install
+libpocl2:amd64					install
+libpocl2-common					install
+libpolkit-agent-1-0:amd64			install
+libpolkit-gobject-1-0:amd64			install
+libpoppler-glib8:amd64				install
+libpoppler82:amd64				install
+libpopt0:amd64					install
+libportaudio2:amd64				install
+libpostproc55:amd64				install
+libpq5:amd64					install
+libprocps7:amd64				install
+libproj15:amd64					install
+libprotobuf-c1:amd64				install
+libprotobuf17:amd64				install
+libproxy1-plugin-gsettings:amd64		install
+libproxy1-plugin-networkmanager:amd64		install
+libproxy1-plugin-webkit:amd64			install
+libproxy1v5:amd64				install
+libproxychains3:amd64				install
+libpsl5:amd64					install
+libpulse-mainloop-glib0:amd64			install
+libpulse0:amd64					install
+libpulsedsp:amd64				install
+libpwquality-common				install
+libpwquality1:amd64				install
+libpython-dev:amd64				install
+libpython-stdlib:amd64				install
+libpython2-dev:amd64				install
+libpython2-stdlib:amd64				install
+libpython2.7:amd64				install
+libpython2.7-dev:amd64				install
+libpython2.7-minimal:amd64			install
+libpython2.7-stdlib:amd64			install
+libpython3-dev:amd64				install
+libpython3-stdlib:amd64				install
+libpython3.7:amd64				install
+libpython3.7-dev:amd64				install
+libpython3.7-minimal:amd64			install
+libpython3.7-stdlib:amd64			install
+libpython3.8:amd64				install
+libpython3.8-minimal:amd64			install
+libpython3.8-stdlib:amd64			install
+libqhull7:amd64					install
+libqmi-glib5:amd64				install
+libqmi-proxy					install
+libqscintilla2-qt4-l10n				install
+libqscintilla2-qt5-13				install
+libqscintilla2-qt5-15				install
+libqscintilla2-qt5-l10n				install
+libqt5charts5:amd64				install
+libqt5concurrent5:amd64				install
+libqt5core5a:amd64				install
+libqt5dbus5:amd64				install
+libqt5designer5:amd64				install
+libqt5gui5:amd64				install
+libqt5help5:amd64				install
+libqt5multimedia5:amd64				install
+libqt5multimedia5-plugins:amd64			install
+libqt5multimediagsttools5:amd64			install
+libqt5multimediawidgets5:amd64			install
+libqt5network5:amd64				install
+libqt5opengl5:amd64				install
+libqt5positioning5:amd64			install
+libqt5printsupport5:amd64			install
+libqt5qml5:amd64				install
+libqt5quick5:amd64				install
+libqt5sensors5:amd64				install
+libqt5sql5:amd64				install
+libqt5sql5-sqlite:amd64				install
+libqt5svg5:amd64				install
+libqt5test5:amd64				install
+libqt5webchannel5:amd64				install
+libqt5webkit5:amd64				install
+libqt5widgets5:amd64				install
+libqt5x11extras5:amd64				install
+libqt5xml5:amd64				install
+libqtermwidget5-0:amd64				install
+libquadmath0:amd64				install
+libquvi-0.9-0.9.3:amd64				install
+libquvi-scripts-0.9				install
+libradare2-3.2:amd64				install
+libradare2-4.2.1:amd64				install
+libradare2-common				install
+libradare2-dev					install
+librados2					install
+libraw1394-11:amd64				install
+librdmacm1:amd64				install
+libre2-5:amd64					install
+libreadline5:amd64				install
+libreadline7:amd64				install
+libreadline8:amd64				install
+libregexp-ipv6-perl				install
+librest-0.7-0:amd64				install
+librsvg2-2:amd64				install
+librsvg2-common:amd64				install
+librtmp1:amd64					install
+librubberband2:amd64				install
+libruby2.5:amd64				install
+librygel-core-2.6-2:amd64			install
+librygel-db-2.6-2:amd64				install
+librygel-renderer-2.6-2:amd64			install
+librygel-server-2.6-2:amd64			install
+libsamplerate0:amd64				install
+libsane:amd64					install
+libsane-common					install
+libsasl2-2:amd64				install
+libsasl2-modules:amd64				install
+libsasl2-modules-db:amd64			install
+libsbc1:amd64					install
+libseccomp2:amd64				install
+libsecret-1-0:amd64				install
+libsecret-common				install
+libselinux1:amd64				install
+libsemanage-common				install
+libsemanage1:amd64				install
+libsensors-config				install
+libsensors5:amd64				install
+libsepol1:amd64					install
+libserd-0-0:amd64				install
+libserf-1-1:amd64				install
+libshine3:amd64					install
+libshout3:amd64					install
+libsidplay1v5:amd64				install
+libsigc++-2.0-0v5:amd64				install
+libsigsegv2:amd64				install
+libslang2:amd64					install
+libsm6:amd64					install
+libsmartcols1:amd64				install
+libsmbclient:amd64				install
+libsmbios-c2					install
+libsmi2ldbl:amd64				install
+libsnappy1v5:amd64				install
+libsndfile1:amd64				install
+libsndio7.0:amd64				install
+libsnmp-base					install
+libsnmp30:amd64					install
+libsnmp35:amd64					install
+libsocket6-perl					install
+libsodium23:amd64				install
+libsonic0:amd64					install
+libsord-0-0:amd64				install
+libsoundtouch1:amd64				install
+libsoup-gnome2.4-1:amd64			install
+libsoup2.4-1:amd64				install
+libsoxr0:amd64					install
+libspandsp2:amd64				install
+libspatialite7:amd64				install
+libspectre1:amd64				install
+libspeechd2:amd64				install
+libspeex1:amd64					install
+libspeexdsp1:amd64				install
+libsqlite3-0:amd64				install
+libsratom-0-0:amd64				install
+libsrt1:amd64					install
+libsrtp2-1:amd64				install
+libss2:amd64					install
+libssh-4:amd64					install
+libssh-gcrypt-4:amd64				install
+libssh2-1:amd64					install
+libssl1.0.2:amd64				install
+libssl1.1:amd64					install
+libstartup-notification0:amd64			install
+libstdc++-8-dev:amd64				install
+libstdc++-9-dev:amd64				install
+libstdc++6:amd64				install
+libstemmer0d:amd64				install
+libstring-random-perl				install
+libsuperlu5:amd64				install
+libsvn1:amd64					install
+libswitch-perl					install
+libswresample3:amd64				install
+libswscale5:amd64				install
+libsybdb5:amd64					install
+libsynctex2:amd64				install
+libsystemd0:amd64				install
+libsz2:amd64					install
+libtag1v5:amd64					install
+libtag1v5-vanilla:amd64				install
+libtagc0:amd64					install
+libtalloc2:amd64				install
+libtasn1-6:amd64				install
+libtcl8.6:amd64					install
+libtdb1:amd64					install
+libteamdctl0:amd64				install
+libterm-readkey-perl				install
+libtevent0:amd64				install
+libtext-charwidth-perl				install
+libtext-iconv-perl				install
+libtext-wrapi18n-perl				install
+libthai-data					install
+libthai0:amd64					install
+libtheora0:amd64				install
+libtie-ixhash-perl				install
+libtiff5:amd64					install
+libtimedate-perl				install
+libtinfo-dev:amd64				install
+libtinfo5:amd64					install
+libtinfo6:amd64					install
+libtirpc-common					install
+libtirpc3:amd64					install
+libtk8.6:amd64					install
+libtommath1:amd64				install
+libtotem-plparser-common			install
+libtotem-plparser18:amd64			install
+libtotem0:amd64					install
+libtracker-control-2.0-0:amd64			install
+libtracker-miner-2.0-0:amd64			install
+libtracker-sparql-2.0-0:amd64			install
+libtry-tiny-perl				install
+libtsan0:amd64					install
+libtsk13					install
+libtss2-esys0					install
+libtss2-udev					install
+libturbojpeg0:amd64				install
+libtwolame0:amd64				install
+libu2f-udev					install
+libubsan1:amd64					install
+libuchardet0:amd64				install
+libucl1:amd64					install
+libudev1:amd64					install
+libudisks2-0:amd64				install
+libunbound8:amd64				install
+libunistring2:amd64				install
+libunsafessl1.0.2:amd64				install
+libunwind8:amd64				install
+libupower-glib3:amd64				install
+liburcu6:amd64					install
+liburi-perl					install
+liburiparser1:amd64				install
+libusb-1.0-0:amd64				install
+libusbmuxd4:amd64				install
+libusbmuxd6:amd64				install
+libusrsctp1:amd64				install
+libutempter0:amd64				install
+libutf8proc2:amd64				install
+libuuid1:amd64					install
+libuv1:amd64					install
+libuv1-dev:amd64				install
+libv4l-0:amd64					install
+libv4lconvert0:amd64				install
+libva-drm2:amd64				install
+libva-x11-2:amd64				install
+libva2:amd64					install
+libvdpau-va-gl1:amd64				install
+libvdpau1:amd64					install
+libvidstab1.1:amd64				install
+libvisual-0.4-0:amd64				install
+libvo-aacenc0:amd64				install
+libvo-amrwbenc0:amd64				install
+libvolume-key1					install
+libvorbis0a:amd64				install
+libvorbisenc2:amd64				install
+libvorbisfile3:amd64				install
+libvpx5:amd64					install
+libvpx6:amd64					install
+libvte-2.91-0:amd64				install
+libvte-2.91-common				install
+libvulkan1:amd64				install
+libwacom-bin					install
+libwacom-common					install
+libwacom2:amd64					install
+libwavpack1:amd64				install
+libwayland-client0:amd64			install
+libwayland-cursor0:amd64			install
+libwayland-egl1:amd64				install
+libwayland-server0:amd64			install
+libwbclient0:amd64				install
+libwebkit2gtk-4.0-37:amd64			install
+libwebp6:amd64					install
+libwebpdemux2:amd64				install
+libwebpmux3:amd64				install
+libwebrtc-audio-processing1:amd64		install
+libwildmidi2:amd64				install
+libwinpr2-2:amd64				install
+libwireshark-data				install
+libwireshark12:amd64				install
+libwireshark13:amd64				install
+libwiretap10:amd64				install
+libwiretap9:amd64				install
+libwnck-3-0:amd64				install
+libwnck-3-common				install
+libwoff1:amd64					install
+libwpe-1.0-1:amd64				install
+libwpebackend-fdo-1.0-1:amd64			install
+libwrap0:amd64					install
+libwscodecs2:amd64				install
+libwsutil10:amd64				install
+libwsutil11:amd64				install
+libwww-mechanize-perl				install
+libwww-perl					install
+libwww-robotrules-perl				install
+libx11-6:amd64					install
+libx11-data					install
+libx11-protocol-perl				install
+libx11-xcb1:amd64				install
+libx264-155:amd64				install
+libx265-165:amd64				install
+libx265-176:amd64				install
+libx265-179:amd64				install
+libx86-1:amd64					install
+libxatracker2:amd64				install
+libxau6:amd64					install
+libxaw7:amd64					install
+libxcb-dri2-0:amd64				install
+libxcb-dri3-0:amd64				install
+libxcb-glx0:amd64				install
+libxcb-icccm4:amd64				install
+libxcb-image0:amd64				install
+libxcb-keysyms1:amd64				install
+libxcb-present0:amd64				install
+libxcb-randr0:amd64				install
+libxcb-render-util0:amd64			install
+libxcb-render0:amd64				install
+libxcb-res0:amd64				install
+libxcb-shape0:amd64				install
+libxcb-shm0:amd64				install
+libxcb-sync1:amd64				install
+libxcb-util0:amd64				install
+libxcb-xf86dri0:amd64				install
+libxcb-xfixes0:amd64				install
+libxcb-xinerama0:amd64				install
+libxcb-xinput0:amd64				install
+libxcb-xkb1:amd64				install
+libxcb-xv0:amd64				install
+libxcb1:amd64					install
+libxcomposite1:amd64				install
+libxcursor1:amd64				install
+libxdamage1:amd64				install
+libxdmcp6:amd64					install
+libxdot4:amd64					install
+libxerces-c3.2:amd64				install
+libxext6:amd64					install
+libxfce4util-bin				install
+libxfce4util-common				install
+libxfce4util7:amd64				install
+libxfconf-0-3					install
+libxfixes3:amd64				install
+libxfont2:amd64					install
+libxft2:amd64					install
+libxi6:amd64					install
+libxinerama1:amd64				install
+libxkbcommon-x11-0:amd64			install
+libxkbcommon0:amd64				install
+libxkbfile1:amd64				install
+libxklavier16:amd64				install
+libxm4:amd64					install
+libxml-dom-perl					install
+libxml-parser-perl				install
+libxml-perl					install
+libxml-regexp-perl				install
+libxml-twig-perl				install
+libxml-writer-perl				install
+libxml-xpathengine-perl				install
+libxml2:amd64					install
+libxml2-utils					install
+libxmlb1:amd64					install
+libxmu6:amd64					install
+libxmuu1:amd64					install
+libxnvctrl0:amd64				install
+libxpm4:amd64					install
+libxrandr2:amd64				install
+libxrender1:amd64				install
+libxres1:amd64					install
+libxshmfence1:amd64				install
+libxslt1.1:amd64				install
+libxss1:amd64					install
+libxt6:amd64					install
+libxtables12:amd64				install
+libxtst6:amd64					install
+libxv1:amd64					install
+libxvidcore4:amd64				install
+libxvmc1:amd64					install
+libxxf86dga1:amd64				install
+libxxf86vm1:amd64				install
+libxxhash0:amd64				install
+libyaml-0-2:amd64				install
+libyara3:amd64					install
+libyelp0:amd64					install
+libz3-4:amd64					install
+libz3-dev:amd64					install
+libzapojit-0.0-0:amd64				install
+libzbar0:amd64					install
+libzip-dev:amd64				install
+libzip4:amd64					install
+libzmq5:amd64					install
+libzstd1:amd64					install
+libzvbi-common					install
+libzvbi0:amd64					install
+linux-base					install
+linux-compiler-gcc-8-x86			install
+linux-compiler-gcc-9-x86			install
+linux-headers-5.2.0-kali2-amd64			install
+linux-headers-5.2.0-kali2-common		install
+linux-headers-5.4.0-kali4-amd64			install
+linux-headers-5.4.0-kali4-common		install
+linux-headers-amd64				install
+linux-image-5.2.0-kali2-amd64			install
+linux-image-5.4.0-kali4-amd64			install
+linux-image-amd64				install
+linux-kbuild-5.2				install
+linux-kbuild-5.4				install
+linux-libc-dev:amd64				install
+live-tools					deinstall
+llvm-6.0					install
+llvm-6.0-dev					install
+llvm-6.0-runtime				install
+llvm-8						install
+llvm-8-dev					install
+llvm-8-runtime					install
+llvm-9						install
+llvm-9-dev					install
+llvm-9-runtime					install
+llvm-9-tools					install
+locales						install
+locales-all					install
+login						install
+logrotate					install
+logsave						install
+lrzsz						install
+lsb-base					install
+lsb-release					install
+lsof						install
+lua-bitop:amd64					install
+lua-expat:amd64					install
+lua-json					install
+lua-lpeg:amd64					install
+lua-socket:amd64				install
+lvm2						install
+m4						install
+macchanger					install
+magicrescue					install
+mailutils					install
+mailutils-common				install
+make						install
+maltego						install
+maltego-teeth					install
+man-db						install
+manpages					install
+manpages-dev					install
+mariadb-client-10.3				install
+mariadb-client-core-10.3			install
+mariadb-common					install
+mariadb-server-10.3				install
+mariadb-server-core-10.3			install
+maskprocessor					install
+masscan						install
+mawk						install
+medusa						install
+mesa-va-drivers:amd64				install
+mesa-vdpau-drivers:amd64			install
+mesa-vulkan-drivers:amd64			install
+metasploit-framework				install
+mime-support					install
+mimikatz					install
+minicom						install
+miranda						install
+miredo						install
+mitmproxy					install
+mlocate						install
+mobile-broadband-provider-info			install
+modemmanager					install
+mount						install
+mousepad					install
+mousetweaks					install
+mpg123						install
+msfpc						install
+mtd-utils					install
+multimac					install
+mutter						install
+mutter-common					install
+mysql-common					install
+nano						install
+nasm						install
+nautilus					install
+nautilus-data					install
+nautilus-extension-gnome-terminal		install
+nbtscan						install
+ncompress					install
+ncrack						install
+ncurses-base					install
+ncurses-bin					install
+ncurses-hexedit					install
+ncurses-term					install
+ndiff						install
+net-tools					install
+netbase						install
+netcat-traditional				install
+netdiscover					install
+netmask						install
+netsed						install
+netsniff-ng					install
+network-manager					install
+network-manager-gnome				install
+nfs-common					install
+nfspy						install
+nginx						install
+nginx-common					install
+nginx-full					install
+ngrep						install
+nikto						install
+nmap						install
+nmap-common					install
+node-normalize.css				install
+notification-daemon				install
+ntfs-3g						install
+ntp						install
+ocl-icd-libopencl1:amd64			install
+odbcinst					install
+odbcinst1debian2:amd64				install
+onesixtyone					install
+openjdk-11-jre:amd64				install
+openjdk-11-jre-headless:amd64			install
+openjdk-8-jre:amd64				install
+openjdk-8-jre-headless:amd64			install
+opensc						install
+opensc-pkcs11:amd64				install
+openssh-client					install
+openssh-server					install
+openssh-sftp-server				install
+openssl						install
+openvpn						install
+ophcrack					install
+ophcrack-cli					install
+orca						install
+os-prober					install
+osinfo-db					install
+p11-kit						install
+p11-kit-modules:amd64				install
+p7zip						install
+p7zip-full					install
+packagekit					install
+packagekit-tools				install
+parted						install
+passing-the-hash				install
+passwd						install
+patator						install
+patch						install
+pci.ids						install
+pciutils					install
+pcscd						install
+pdf-parser					install
+pdfid						install
+perl						install
+perl-base					install
+perl-modules-5.28				install
+perl-modules-5.30				install
+perl-openssl-defaults:amd64			install
+php						install
+php-common					install
+php-mysql					install
+php7.3						install
+php7.3-cli					install
+php7.3-common					install
+php7.3-json					install
+php7.3-mysql					install
+php7.3-opcache					install
+php7.3-readline					install
+pigz						install
+pinentry-gnome3					install
+pipal						install
+pixiewps					install
+pkg-config					install
+plymouth					install
+plymouth-label					install
+pocl-opencl-icd:amd64				install
+polenum						install
+policykit-1					install
+poppler-data					install
+poppler-utils					install
+postgresql					install
+postgresql-11					install
+postgresql-12					install
+postgresql-client-11				install
+postgresql-client-12				install
+postgresql-client-common			install
+postgresql-common				install
+powermgmt-base					install
+powersploit					install
+ppp						install
+procps						install
+proj-bin					install
+proj-data					install
+proxychains					install
+proxytunnel					install
+psmisc						install
+ptunnel						install
+publicsuffix					install
+pulseaudio					install
+pulseaudio-module-bluetooth			install
+pulseaudio-utils				install
+pwgen						install
+pwnat						install
+python						install
+python-adns					install
+python-aes					install
+python-alembic					install
+python-apt-common				install
+python-asn1crypto				install
+python-attr					install
+python-autobahn					install
+python-automat					install
+python-babel					install
+python-babel-localedata				install
+python-backports-abc				install
+python-backports-shutil-get-terminal-size	install
+python-backports.functools-lru-cache		install
+python-bcrypt					install
+python-blinker					install
+python-bottle					install
+python-bs4					install
+python-cairo:amd64				install
+python-cbor					install
+python-certifi					install
+python-cffi-backend				install
+python-chameleon				install
+python-chardet					install
+python-click					install
+python-colorama					install
+python-concurrent.futures			install
+python-configparser				install
+python-constantly				install
+python-crypto					install
+python-cryptography				install
+python-cssselect				install
+python-dateutil					install
+python-dbus					install
+python-decorator				install
+python-deprecation				install
+python-dev					install
+python-django					install
+python-django-common				install
+python-dnspython				install
+python-easygui					install
+python-editor					install
+python-editorconfig				install
+python-egenix-mxdatetime			install
+python-egenix-mxtools				install
+python-elixir					install
+python-enchant					install
+python-enum34					install
+python-faraday					install
+python-filedepot				install
+python-flask					install
+python-flask-babelex				install
+python-flask-classful				install
+python-flask-login				install
+python-flask-mail				install
+python-flask-principal				install
+python-flask-restless				install
+python-flask-security				install
+python-flask-session				install
+python-flask-sqlalchemy				install
+python-flaskext.wtf				install
+python-formencode				install
+python-fuse					install
+python-future					install
+python-gi					install
+python-gobject					install
+python-gobject-2				install
+python-gtk2					install
+python-gtksourceview2				install
+python-hamcrest					install
+python-html5lib					install
+python-hupper					install
+python-hyperlink				install
+python-idna					install
+python-impacket					install
+python-incremental				install
+python-ipaddress				install
+python-ipy					install
+python-ipython					install
+python-ipython-genutils				install
+python-itsdangerous				install
+python-jinja2					install
+python-jsbeautifier				install
+python-jsonpickle				install
+python-ldap3					install
+python-ldapdomaindump				install
+python-levenshtein				install
+python-lxml:amd64				install
+python-lz4					install
+python-m2crypto					install
+python-magic					install
+python-mako					install
+python-markupsafe				install
+python-marshmallow				install
+python-marshmallow-sqlalchemy			install
+python-matplotlib-data				install
+python-mechanize				install
+python-metaconfig				install
+python-mimeparse				install
+python-mimerender				install
+python-minimal					install
+python-mpltoolkits.basemap-data			install
+python-msgpack					install
+python-mysqldb					install
+python-nacl					install
+python-netaddr					install
+python-nplusone					install
+python-numpy					install
+python-olefile					install
+python-openid					install
+python-openssl					install
+python-packaging				install
+python-paramiko					install
+python-passlib					install
+python-paste					install
+python-pastedeploy-tpl				install
+python-pathlib2					install
+python-peepdf					install
+python-pefile					install
+python-pexpect					install
+python-pickleshare				install
+python-pil:amd64				install
+python-pil.imagetk:amd64			install
+python-pip-whl					install
+python-pkg-resources				install
+python-plaster					install
+python-png					install
+python-prettytable				install
+python-prompt-toolkit				install
+python-psycopg2					install
+python-ptyprocess				install
+python-pyasn1					install
+python-pyasn1-modules				install
+python-pycryptodome				install
+python-pydot					install
+python-pygments					install
+python-pyinotify				install
+python-pylibemu					install
+python-pymssql					install
+python-pyparsing				install
+python-pyqrcode					install
+python-pyquery					install
+python-pysqlite2				install
+python-pyv8					install
+python-qrcode					install
+python-repoze.lru				install
+python-requests					install
+python-scandir					install
+python-scapy					install
+python-scgi					install
+python-selenium					install
+python-service-identity				install
+python-setuptools				install
+python-simplegeneric				install
+python-simplejson				install
+python-singledispatch				install
+python-sip					install
+python-six					install
+python-slugify					install
+python-snappy					install
+python-socks					install
+python-soupsieve				install
+python-speaklater				install
+python-sqlalchemy				install
+python-sqlalchemy-ext				install
+python-sqlalchemy-schemadisplay			install
+python-sqlparse					install
+python-tables-data				install
+python-talloc:amd64				install
+python-tempita					install
+python-tk					install
+python-tornado					install
+python-tqdm					install
+python-traitlets				install
+python-translationstring			install
+python-trie					install
+python-trollius					install
+python-twisted					install
+python-twisted-bin:amd64			install
+python-twisted-core				install
+python-twisted-web				install
+python-txaio					install
+python-typing					install
+python-tz					install
+python-u-msgpack				install
+python-ubjson					install
+python-unidecode				install
+python-urllib3					install
+python-venusian					install
+python-waitress					install
+python-wcwidth					install
+python-webencodings				install
+python-webob					install
+python-websocket				install
+python-werkzeug					install
+python-wsaccel					install
+python-wtforms					install
+python-yaml					install
+python-zope.component				install
+python-zope.deprecation				install
+python-zope.event				install
+python-zope.hookable				install
+python-zope.interface				install
+python2						install
+python2-dev					install
+python2-minimal					install
+python2.7					install
+python2.7-dev					install
+python2.7-minimal				install
+python3						install
+python3-adblockparser				install
+python3-advancedhttpserver			install
+python3-aiodns					install
+python3-aiohttp					install
+python3-aioredis				install
+python3-ajpy					install
+python3-alembic					install
+python3-aniso8601				install
+python3-apscheduler				install
+python3-apt					install
+python3-asn1crypto				install
+python3-async-timeout				install
+python3-atomicwrites				install
+python3-attr					install
+python3-autobahn				install
+python3-automat					install
+python3-babel					install
+python3-backcall				install
+python3-bcrypt					install
+python3-binwalk					install
+python3-blinker					install
+python3-boltons					install
+python3-bottle					install
+python3-brlapi:amd64				install
+python3-brotli					install
+python3-bs4					install
+python3-cairo:amd64				install
+python3-cbor					install
+python3-certifi					install
+python3-cffi-backend				install
+python3-chameleon				install
+python3-chardet					install
+python3-cherrypy3				install
+python3-click					install
+python3-click-plugins				install
+python3-colorama				install
+python3-constantly				install
+python3-crypto					install
+python3-cryptography				install
+python3-cups					install
+python3-cupshelpers				install
+python3-cycler					install
+python3-dateutil				install
+python3-dbus					install
+python3-debconf					install
+python3-debian					install
+python3-debianbts				install
+python3-decorator				install
+python3-deprecation				install
+python3-dev					install
+python3-dicttoxml				install
+python3-distro					install
+python3-distro-info				install
+python3-distutils				install
+python3-django					install
+python3-dnslib					install
+python3-dnspython				install
+python3-docx					install
+python3-ecdsa					install
+python3-editor					install
+python3-email-validator				install
+python3-entrypoints				install
+python3-et-xmlfile				install
+python3-exif					install
+python3-faraday-plugins				install
+python3-feedparser				install
+python3-filedepot				install
+python3-filteralchemy				install
+python3-flasgger				install
+python3-flask					install
+python3-flask-babelex				install
+python3-flask-classful				install
+python3-flask-kvsession				install
+python3-flask-login				install
+python3-flask-mail				install
+python3-flask-principal				install
+python3-flask-restful				install
+python3-flask-restless				install
+python3-flask-security				install
+python3-flask-session				install
+python3-flask-sqlalchemy			install
+python3-flaskext.wtf				install
+python3-future					install
+python3-gdal					install
+python3-geoip2					install
+python3-geojson					install
+python3-gevent					install
+python3-gi					install
+python3-gi-cairo				install
+python3-git					install
+python3-gitdb					install
+python3-gpg					install
+python3-graphene				install
+python3-graphene-sqlalchemy			install
+python3-graphql-core				install
+python3-graphql-relay				install
+python3-greenlet				install
+python3-grequests				install
+python3-gst-1.0					install
+python3-h11					install
+python3-h2					install
+python3-hamcrest				install
+python3-hiredis					install
+python3-hpack					install
+python3-html2text				install
+python3-html5lib				install
+python3-httplib2				install
+python3-hupper					install
+python3-hyperframe				install
+python3-hyperlink				install
+python3-ibus-1.0				install
+python3-icalendar				install
+python3-idna					install
+python3-impacket				install
+python3-importlib-metadata			install
+python3-incremental				install
+python3-ipwhois					install
+python3-ipy					install
+python3-ipython					install
+python3-ipython-genutils			install
+python3-itsdangerous				install
+python3-jdcal					install
+python3-jedi					install
+python3-jeepney					install
+python3-jinja2					install
+python3-jsonschema				install
+python3-jupyter-core				install
+python3-kaitaistruct				install
+python3-keyring					install
+python3-keyrings.alt				install
+python3-kismetcapturefreaklabszigbee		install
+python3-kismetcapturertl433			install
+python3-kismetcapturertladsb			install
+python3-kismetcapturertlamr			install
+python3-kiwisolver				install
+python3-ldap3					install
+python3-ldapdomaindump				install
+python3-ldb					install
+python3-lib2to3					install
+python3-louis					install
+python3-lxml:amd64				install
+python3-lz4					install
+python3-magic					install
+python3-mako					install
+python3-markdown				install
+python3-markupsafe				install
+python3-marshmallow				install
+python3-marshmallow-sqlalchemy			install
+python3-matplotlib				install
+python3-maxminddb				install
+python3-mechanize				install
+python3-mimeparse				install
+python3-mimerender				install
+python3-minimal					install
+python3-mistune					install
+python3-more-itertools				install
+python3-mpltoolkits.basemap			install
+python3-msgpack					install
+python3-multidict				install
+python3-mysqldb					install
+python3-nacl					install
+python3-nassl					install
+python3-nbformat				install
+python3-netaddr					install
+python3-networkx				install
+python3-nplusone				install
+python3-numexpr					install
+python3-numpy					install
+python3-olefile					install
+python3-opengl					install
+python3-openpyxl				install
+python3-openssl					install
+python3-packaging				install
+python3-pampy					install
+python3-pandas					install
+python3-pandas-lib				install
+python3-paramiko				install
+python3-parso					install
+python3-passlib					install
+python3-paste					install
+python3-pastedeploy				install
+python3-pastescript				install
+python3-pcapfile				install
+python3-pefile					install
+python3-pexpect					install
+python3-phonenumbers				install
+python3-pickleshare				install
+python3-pil:amd64				install
+python3-pip					install
+python3-pkg-resources				install
+python3-plaster					install
+python3-plaster-pastedeploy			install
+python3-plotly					install
+python3-pluggy					install
+python3-pluginbase				install
+python3-ply					install
+python3-png					install
+python3-pptx					install
+python3-prettytable				install
+python3-promise					install
+python3-prompt-toolkit				install
+python3-protobuf				install
+python3-psycopg2				install
+python3-ptyprocess				install
+python3-py					install
+python3-pyasn1					install
+python3-pyasn1-modules				install
+python3-pyatspi					install
+python3-pycares					install
+python3-pycryptodome				install
+python3-pycurl					install
+python3-pydot					install
+python3-pyexploitdb				install
+python3-pyfiglet				install
+python3-pygments				install
+python3-pyinotify				install
+python3-pymssql					install
+python3-pyotp					install
+python3-pyparsing				install
+python3-pypdf2					install
+python3-pyperclip				install
+python3-pyproj					install
+python3-pyqrcode				install
+python3-pyqt5					install
+python3-pyqt5.qtopengl				install
+python3-pyqtgraph				install
+python3-pyramid					install
+python3-pyshodan				install
+python3-pyshp					install
+python3-pysimplesoap				install
+python3-pysmi					install
+python3-pysnmp4					install
+python3-pytest					install
+python3-qrcode					install
+python3-quamash					install
+python3-redis					install
+python3-reportbug				install
+python3-repoze.lru				install
+python3-requests				install
+python3-requests-file				install
+python3-retrying				install
+python3-routes					install
+python3-rq					install
+python3-ruamel.yaml				install
+python3-rule-engine				install
+python3-rx					install
+python3-samba					install
+python3-scapy					install
+python3-scipy					install
+python3-secretstorage				install
+python3-secure					install
+python3-selenium				install
+python3-serial					install
+python3-service-identity			install
+python3-setuptools				install
+python3-shodan					install
+python3-simplejson				install
+python3-simplekv				install
+python3-singledispatch				install
+python3-sip					install
+python3-six					install
+python3-smbc					install
+python3-smmap					install
+python3-smoke-zephyr				install
+python3-snappy					install
+python3-socks					install
+python3-software-properties			install
+python3-sortedcontainers			install
+python3-soupsieve				install
+python3-speaklater				install
+python3-speechd					install
+python3-sqlalchemy				install
+python3-sqlalchemy-ext				install
+python3-sqlalchemy-schemadisplay		install
+python3-sqlparse				install
+python3-stem					install
+python3-syslog-rfc5424-formatter		install
+python3-tables					install
+python3-tables-lib				install
+python3-talloc:amd64				install
+python3-tdb					install
+python3-tempita					install
+python3-termcolor				install
+python3-texttable				install
+python3-tk:amd64				install
+python3-tld					install
+python3-tls-parser				install
+python3-tornado					install
+python3-tqdm					install
+python3-traitlets				install
+python3-translationstring			install
+python3-trie					install
+python3-twisted					install
+python3-twisted-bin:amd64			install
+python3-txaio					install
+python3-tz					install
+python3-tzlocal					install
+python3-u-msgpack				install
+python3-ubjson					install
+python3-unicodecsv				install
+python3-unidecode				install
+python3-urllib3					install
+python3-urwid					install
+python3-venusian				install
+python3-waitress				install
+python3-wcwidth					install
+python3-webargs					install
+python3-webencodings				install
+python3-webob					install
+python3-websocket				install
+python3-webtest					install
+python3-werkzeug				install
+python3-wheel					install
+python3-whois					install
+python3-wsaccel					install
+python3-wsproto					install
+python3-wtforms					install
+python3-xdg					install
+python3-xlrd					install
+python3-xlsxwriter				install
+python3-xlwt					install
+python3-yaml					install
+python3-yara					install
+python3-yarl					install
+python3-yaswfp					install
+python3-zipp					install
+python3-zope.component				install
+python3-zope.deprecation			install
+python3-zope.event				install
+python3-zope.hookable				install
+python3-zope.interface				install
+python3.7					install
+python3.7-dev					install
+python3.7-minimal				install
+python3.8					install
+python3.8-minimal				install
+qsslcaudit					install
+qt5-gtk-platformtheme:amd64			install
+qtchooser					install
+qtcore4-l10n					install
+qterminal					install
+qterminal-l10n					install
+qtermwidget5-data				install
+qttranslations5-l10n				install
+radare2						install
+rake						install
+rdesktop					install
+read-edid					install
+readline-common					install
+realmd						install
+reaver						install
+rebind						install
+recon-ng					install
+recordmydesktop					install
+redsocks					install
+reportbug					install
+responder					install
+rfkill						install
+rlinetd						install
+rpcbind						install
+rsmangler					install
+rsync						install
+rsyslog						install
+rtkit						install
+ruby						install
+ruby-activesupport				install
+ruby-addressable				install
+ruby-atomic					install
+ruby-bundler					install
+ruby-cms-scanner				install
+ruby-concurrent					install
+ruby-dev:amd64					install
+ruby-did-you-mean				install
+ruby-ethon					install
+ruby-ffi					install
+ruby-get-process-mem				install
+ruby-i18n					install
+ruby-ipaddress					install
+ruby-json					install
+ruby-mime					install
+ruby-mime-types					install
+ruby-mime-types-data				install
+ruby-mini-exiftool				install
+ruby-minitest					install
+ruby-molinillo					install
+ruby-net-http-digest-auth			install
+ruby-net-http-persistent			install
+ruby-net-telnet					install
+ruby-nokogiri					install
+ruby-opt-parse-validator			install
+ruby-pkg-config					install
+ruby-power-assert				install
+ruby-progressbar				install
+ruby-public-suffix				install
+ruby-rchardet					install
+ruby-snmp					install
+ruby-spider					install
+ruby-test-unit					install
+ruby-thor					install
+ruby-thread-safe				install
+ruby-typhoeus					install
+ruby-tzinfo					install
+ruby-xmlrpc					install
+ruby-yajl					install
+ruby-zip					install
+ruby2.5						install
+ruby2.5-dev:amd64				install
+ruby2.5-doc					install
+rubygems-integration				install
+runit-helper					install
+rwho						install
+rwhod						install
+rygel						install
+sakis3g						install
+samba						install
+samba-common					install
+samba-common-bin				install
+samba-dsdb-modules:amd64			install
+samba-libs:amd64				install
+samba-vfs-modules:amd64				install
+samdump2					install
+sane-utils					install
+sbd						install
+scalpel						install
+screen						install
+scrounge-ntfs					install
+sed						install
+sendemail					install
+sensible-utils					install
+set						install
+shared-mime-info				install
+skipfish					install
+sleuthkit					install
+smartmontools					install
+smbclient					install
+smbmap						install
+snmp						install
+snmpcheck					install
+snmpd						install
+sntp						install
+socat						install
+software-properties-common			install
+software-properties-gtk				install
+sound-icons					install
+sound-theme-freedesktop				install
+sparta						deinstall
+sparta-scripts					install
+speech-dispatcher				install
+speech-dispatcher-audio-plugins:amd64		install
+speech-dispatcher-espeak-ng			install
+spiderfoot					install
+spike						install
+spooftooph					install
+sqlite3						install
+sqlitebrowser					install
+sqlmap						install
+sqsh						install
+squashfs-tools					install
+ssl-cert					install
+sslcaudit					install
+ssldump						install
+sslh						install
+sslscan						install
+sslsplit					install
+sslstrip					install
+sslyze						install
+statsprocessor					install
+stunnel4					install
+subversion					install
+sudo						install
+swaks						install
+switcheroo-control				install
+sysstat						install
+system-config-printer				install
+system-config-printer-common			install
+system-config-printer-udev			install
+systemd						install
+systemd-sysv					install
+sysvinit-utils					install
+tar						install
+tasksel						install
+tasksel-data					install
+tcl-expect:amd64				install
+tcl8.6						install
+tcpdump						install
+tcpick						install
+tcpreplay					install
+tdb-tools					install
+telnet						install
+testdisk					install
+tftp						install
+thc-ipv6					install
+thc-pptp-bruter					install
+theharvester					install
+thin-provisioning-tools				install
+tightvncserver					install
+timgm6mb-soundfont				install
+tk8.6-blt2.5					install
+tmux						install
+toilet-fonts					install
+totem						install
+totem-common					install
+totem-plugins					install
+tpm-udev					install
+tpm2-abrmd					install
+tpm2-tools					install
+traceroute					install
+tracker						install
+tracker-extract					install
+tracker-miner-fs				install
+tshark						install
+ttf-bitstream-vera				install
+tzdata						install
+ucf						install
+udev						install
+udisks2						install
+udptunnel					install
+unattended-upgrades				install
+unicorn-magic					install
+unix-privesc-check				install
+unrar						install
+unzip						install
+update-inetd					install
+upower						install
+upx-ucl						install
+usb-modeswitch					install
+usb-modeswitch-data				install
+usb.ids						install
+usbmuxd						install
+usbutils					install
+user-setup					deinstall
+util-linux					install
+uuid-runtime					install
+va-driver-all:amd64				install
+vboot-kernel-utils				install
+vboot-utils					install
+vdpau-driver-all:amd64				install
+vim						install
+vim-common					install
+vim-runtime					install
+vim-tiny					install
+vlan						install
+voiphopper					install
+vpnc						install
+vpnc-scripts					install
+wafw00f						install
+wamerican					install
+wapiti						install
+wce						install
+webshells					install
+weevely						install
+wfuzz						install
+wget						install
+whatweb						install
+whiptail					install
+whois						install
+wifite						install
+windows-binaries				install
+winexe						install
+wireless-regdb					install
+wireless-tools					install
+wireshark					install
+wireshark-common				install
+wireshark-qt					install
+wordlists					install
+wpasupplicant					install
+wpscan						install
+x11-apps					install
+x11-common					install
+x11-utils					install
+x11-xkb-utils					install
+x11-xserver-utils				install
+xauth						install
+xbitmaps					install
+xbrlapi						install
+xdg-dbus-proxy					install
+xdg-desktop-portal				install
+xdg-user-dirs					install
+xdg-utils					install
+xfconf						install
+xfonts-base					install
+xfonts-encodings				install
+xfonts-utils					install
+xkb-data					install
+xpdf						install
+xserver-common					install
+xserver-xephyr					install
+xserver-xorg					install
+xserver-xorg-core				install
+xserver-xorg-input-all				install
+xserver-xorg-input-libinput			install
+xserver-xorg-input-wacom			install
+xserver-xorg-legacy				install
+xserver-xorg-video-all				install
+xserver-xorg-video-amdgpu			install
+xserver-xorg-video-ati				install
+xserver-xorg-video-fbdev			install
+xserver-xorg-video-intel			install
+xserver-xorg-video-nouveau			install
+xserver-xorg-video-qxl				install
+xserver-xorg-video-radeon			install
+xserver-xorg-video-vesa				install
+xserver-xorg-video-vmware			install
+xsltproc					install
+xterm						install
+xtightvncviewer					install
+xvfb						install
+xwayland					install
+xxd						install
+xz-utils					install
+yelp						install
+yelp-xsl					install
+zenity						install
+zenity-common					install
+zenmap						install
+zerofree					install
+zip						install
+zlib1g:amd64					install
+zlib1g-dev:amd64				install
+zsh						install
+zsh-common					install
+＜----------------------------------------------------------------＞
+services information:
+ [ - ]  apache-htcacheclean
+ [ - ]  apache2
+ [ - ]  apparmor
+ [ - ]  atftpd
+ [ - ]  avahi-daemon
+ [ + ]  binfmt-support
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ - ]  cryptdisks
+ [ - ]  cryptdisks-early
+ [ + ]  dbus
+ [ - ]  dns2tcp
+ [ - ]  exim4
+ [ + ]  gdm3
+ [ + ]  haveged
+ [ - ]  hwclock.sh
+ [ - ]  inetsim
+ [ - ]  iodined
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ - ]  live-tools
+ [ - ]  lvm2
+ [ - ]  lvm2-lvmpolld
+ [ - ]  miredo
+ [ - ]  mysql
+ [ + ]  network-manager
+ [ + ]  networking
+ [ - ]  nfs-common
+ [ - ]  nginx
+ [ - ]  nmbd
+ [ - ]  ntp
+ [ - ]  openvpn
+ [ - ]  pcscd
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  postgresql
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  ptunnel
+ [ - ]  pulseaudio-enable-autospawn
+ [ - ]  redsocks
+ [ - ]  rlinetd
+ [ - ]  rpcbind
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  rwhod
+ [ - ]  samba-ad-dc
+ [ - ]  saned
+ [ - ]  screen-cleanup
+ [ + ]  smartmontools
+ [ - ]  smbd
+ [ - ]  snmpd
+ [ - ]  speech-dispatcher
+ [ - ]  ssh
+ [ - ]  sslh
+ [ + ]  stunnel4
+ [ - ]  sudo
+ [ - ]  sysstat
+ [ - ]  tpm2-abrmd
+ [ + ]  udev
+ [ - ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  vmware-tools
+ [ - ]  x11-common
+＜----------------------------------------------------------------＞
+drives information:
+Module                  Size  Used by
+nls_utf8               16384  1
+isofs                  49152  1
+udf                   131072  0
+crc_itu_t              16384  1 udf
+vmw_vsock_vmci_transport    32768  2
+vsock                  40960  3 vmw_vsock_vmci_transport
+fuse                  139264  5
+btusb                  57344  0
+btrtl                  24576  1 btusb
+btbcm                  16384  1 btusb
+btintel                28672  1 btusb
+bluetooth             663552  5 btrtl,btintel,btbcm,btusb
+snd_ens1371            32768  4
+snd_ac97_codec        151552  1 snd_ens1371
+intel_rapl_msr         20480  0
+ac97_bus               16384  1 snd_ac97_codec
+intel_rapl_common      28672  1 intel_rapl_msr
+drbg                   28672  1
+ppdev                  24576  0
+gameport               16384  1 snd_ens1371
+ansi_cprng             16384  0
+ecdh_generic           16384  1 bluetooth
+ecc                    32768  1 ecdh_generic
+snd_rawmidi            45056  1 snd_ens1371
+rfkill                 28672  5 bluetooth
+snd_seq_device         16384  1 snd_rawmidi
+snd_pcm               118784  2 snd_ac97_codec,snd_ens1371
+snd_timer              40960  1 snd_pcm
+joydev                 28672  0
+vmw_balloon            24576  0
+snd                    98304  14 snd_seq_device,snd_timer,snd_ac97_codec,snd_pcm,snd_rawmidi,snd_ens1371
+serio_raw              20480  0
+pcspkr                 16384  0
+soundcore              16384  1 snd
+intel_rapl_perf        16384  0
+sg                     40960  0
+parport_pc             28672  0
+vmw_vmci               81920  2 vmw_balloon,vmw_vsock_vmci_transport
+parport                61440  2 parport_pc,ppdev
+ac                     16384  0
+evdev                  28672  10
+binfmt_misc            24576  1
+sunrpc                466944  1
+ip_tables              32768  0
+x_tables               49152  1 ip_tables
+autofs4                53248  2
+ext4                  761856  1
+crc16                  16384  2 bluetooth,ext4
+mbcache                16384  1 ext4
+jbd2                  131072  1 ext4
+crc32c_generic         16384  0
+sd_mod                 57344  3
+crct10dif_pclmul       16384  1
+crc32_pclmul           16384  0
+crc32c_intel           24576  2
+sr_mod                 28672  1
+cdrom                  73728  1 sr_mod
+ghash_clmulni_intel    16384  0
+ata_generic            16384  0
+ehci_pci               20480  0
+mptspi                 28672  2
+uhci_hcd               53248  0
+mptscsih               32768  1 mptspi
+vmwgfx                352256  4
+ehci_hcd               98304  1 ehci_pci
+aesni_intel           372736  0
+crypto_simd            16384  1 aesni_intel
+ttm                   122880  1 vmwgfx
+mptbase                77824  2 mptspi,mptscsih
+cryptd                 24576  2 crypto_simd,ghash_clmulni_intel
+ata_piix               36864  1
+glue_helper            16384  1 aesni_intel
+usbcore               307200  4 ehci_pci,ehci_hcd,btusb,uhci_hcd
+drm_kms_helper        212992  1 vmwgfx
+scsi_transport_spi     40960  1 mptspi
+psmouse               180224  0
+e1000                 155648  0
+libata                278528  2 ata_piix,ata_generic
+usb_common             16384  3 usbcore,ehci_hcd,uhci_hcd
+drm                   548864  7 vmwgfx,drm_kms_helper,ttm
+i2c_piix4              28672  0
+scsi_mod              249856  7 mptspi,sd_mod,scsi_transport_spi,mptscsih,libata,sg,sr_mod
+floppy                 86016  0
+button                 20480  0
+＜----------------------------------------------------------------＞
+NIC information:
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.105  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::20c:29ff:fef5:d870  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:f5:d8:70  txqueuelen 1000  (Ethernet)
+        RX packets 225  bytes 19470 (19.0 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 29  bytes 2456 (2.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 28  bytes 1596 (1.5 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 28  bytes 1596 (1.5 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+＜----------------------------------------------------------------＞
+route information:
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         192.168.0.1     0.0.0.0         UG        0 0          0 eth0
+192.168.0.0     0.0.0.0         255.255.255.0   U         0 0          0 eth0
+＜----------------------------------------------------------------＞
+connection information
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN      1/init              
+tcp6       0      0 :::111                  :::*                    LISTEN      1/init              
+udp        0      0 192.168.0.105:68        192.168.0.1:67          ESTABLISHED 574/NetworkManager  
+udp        0      0 0.0.0.0:111             0.0.0.0:*                           1/init              
+udp6       0      0 :::111                  :::*                                1/init              
+raw6       0      0 :::58                   :::*                    7           574/NetworkManager  
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  2      [ ACC ]     STREAM     LISTENING     25328    1631/gnome-session-  @/tmp/.ICE-unix/1631
+unix  2      [ ACC ]     STREAM     LISTENING     23771    1174/gnome-session-  @/tmp/.ICE-unix/1174
+unix  2      [ ACC ]     STREAM     LISTENING     18230    936/Xorg             @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     26992    1426/Xorg            @/tmp/.X11-unix/X1
+unix  2      [ ACC ]     STREAM     LISTENING     28944    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  2      [ ACC ]     STREAM     LISTENING     2629     383/systemd-journal  /run/systemd/journal/io.systemd.journal
+unix  2      [ ACC ]     STREAM     LISTENING     21239    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  2      [ ACC ]     STREAM     LISTENING     18231    936/Xorg             /tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     23186    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  2      [ ACC ]     STREAM     LISTENING     26940    677/gdm3             @/tmp/dbus-ijPiEef6
+unix  2      [ ]         DGRAM                    19289    847/systemd          /run/user/133/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     23772    1174/gnome-session-  /tmp/.ICE-unix/1174
+unix  3      [ ]         DGRAM                    12892    1/init               /run/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     19293    847/systemd          /run/user/133/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     20561    677/gdm3             @/tmp/dbus-tEMpwHe4
+unix  2      [ ACC ]     STREAM     LISTENING     12896    1/init               /run/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     19299    847/systemd          /run/user/133/bus
+unix  2      [ ACC ]     STREAM     LISTENING     21349    1172/ssh-agent       /run/user/133/openssh_agent
+unix  2      [ ACC ]     STREAM     LISTENING     19301    847/systemd          /run/user/133/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     19304    847/systemd          /run/user/133/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     26993    1426/Xorg            /tmp/.X11-unix/X1
+unix  2      [ ACC ]     STREAM     LISTENING     19306    847/systemd          /run/user/133/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     20558    677/gdm3             @/tmp/dbus-kw9AtRIv
+unix  2      [ ACC ]     STREAM     LISTENING     19308    847/systemd          /run/user/133/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     19310    847/systemd          /run/user/133/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     19312    847/systemd          /run/user/133/pk-debconf-socket
+unix  2      [ ACC ]     STREAM     LISTENING     12911    1/init               /run/lvm/lvmpolld.socket
+unix  2      [ ACC ]     STREAM     LISTENING     25144    1529/ssh-agent       /tmp/ssh-0MtQQcwF7vjE/agent.1444
+unix  2      [ ACC ]     STREAM     LISTENING     25329    1631/gnome-session-  /tmp/.ICE-unix/1631
+unix  2      [ ACC ]     STREAM     LISTENING     19314    847/systemd          /run/user/133/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     12915    1/init               /run/rpcbind.sock
+unix  2      [ ]         DGRAM                    24949    1405/systemd         /run/user/0/systemd/notify
+unix  2      [ ACC ]     STREAM     LISTENING     24953    1405/systemd         /run/user/0/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     25467    1420/gnome-keyring-  /run/user/0/keyring/ssh
+unix  2      [ ]         DGRAM                    12922    1/init               /run/systemd/journal/syslog
+unix  2      [ ACC ]     STREAM     LISTENING     12926    1/init               /run/systemd/fsck.progress
+unix  2      [ ACC ]     STREAM     LISTENING     24959    1405/systemd         /run/user/0/bus
+unix  2      [ ACC ]     STREAM     LISTENING     25472    1420/gnome-keyring-  /run/user/0/keyring/pkcs11
+unix  2      [ ACC ]     STREAM     LISTENING     24961    1405/systemd         /run/user/0/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     24964    1405/systemd         /run/user/0/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     24966    1405/systemd         /run/user/0/gnupg/S.gpg-agent.extra
+unix  16     [ ]         DGRAM                    12934    1/init               /run/systemd/journal/dev-log
+unix  2      [ ACC ]     STREAM     LISTENING     16774    1/init               /run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     LISTENING     24968    1405/systemd         /run/user/0/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     24970    1405/systemd         /run/user/0/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     12938    1/init               /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     16778    1/init               /run/pcscd/pcscd.comm
+unix  2      [ ACC ]     STREAM     LISTENING     24972    1405/systemd         /run/user/0/pk-debconf-socket
+unix  7      [ ]         DGRAM                    12941    1/init               /run/systemd/journal/socket
+unix  2      [ ACC ]     STREAM     LISTENING     26939    677/gdm3             @/tmp/dbus-6MXEQu5E
+unix  2      [ ACC ]     STREAM     LISTENING     20562    677/gdm3             @/tmp/dbus-8ajEMqOk
+unix  2      [ ACC ]     STREAM     LISTENING     24974    1405/systemd         /run/user/0/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     16782    1/init               /run/uuidd/request
+unix  2      [ ACC ]     SEQPACKET  LISTENING     12944    1/init               /run/udev/control
+unix  2      [ ACC ]     STREAM     LISTENING     22694    1071/VGAuthService   /var/run/vmware/guestServicePipe
+unix  2      [ ACC ]     STREAM     LISTENING     24999    1420/gnome-keyring-  /run/user/0/keyring/control
+unix  2      [ ACC ]     STREAM     LISTENING     20559    677/gdm3             @/tmp/dbus-6fxQ7bGt
+unix  2      [ ACC ]     STREAM     LISTENING     27893    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     24080    1284/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     23395    1282/gsd-a11y-setti  
+unix  3      [ ]         STREAM     CONNECTED     21242    1149/dbus-daemon     
+unix  3      [ ]         DGRAM                    21515    1/init               
+unix  3      [ ]         STREAM     CONNECTED     28367    1802/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     24647    945/dbus-daemon      /run/user/133/bus
+unix  2      [ ]         STREAM     CONNECTED     23474    677/gdm3             @/tmp/dbus-6fxQ7bGt
+unix  3      [ ]         STREAM     CONNECTED     21910    934/gdm-x-session    
+unix  2      [ ]         DGRAM                    16322    578/rsyslogd         
+unix  3      [ ]         STREAM     CONNECTED     29574    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     23392    1296/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     34384    2981/gvfsd-recent    @/dbus-vfs-daemon/socket-fVOBuqqP
+unix  3      [ ]         STREAM     CONNECTED     30111    2019/evolution-addr  
+unix  3      [ ]         STREAM     CONNECTED     25662    945/dbus-daemon      /run/user/133/bus
+unix  2      [ ]         DGRAM                    24087    1174/gnome-session-  
+unix  2      [ ]         DGRAM                    23751    1171/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     23710    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         DGRAM                    14905    1/init               
+unix  3      [ ]         STREAM     CONNECTED     35171    2981/gvfsd-recent    @/dbus-vfs-daemon/socket-KpAfcz7I
+unix  3      [ ]         STREAM     CONNECTED     29193    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24638    1260/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     30048    1865/tracker-miner-  
+unix  3      [ ]         STREAM     CONNECTED     26995    1426/Xorg            
+unix  3      [ ]         STREAM     CONNECTED     24317    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23268    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     32446    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     29963    1841/gsd-sharing     
+unix  3      [ ]         STREAM     CONNECTED     24068    1296/gsd-xsettings   
+unix  2      [ ]         DGRAM                    23976    1237/wpa_supplicant  
+unix  3      [ ]         DGRAM                    14906    1/init               
+unix  3      [ ]         STREAM     CONNECTED     28231    1713/gnome-shell-ca  
+unix  3      [ ]         STREAM     CONNECTED     25278    1444/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     22229    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     31761    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25831    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     20476    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28957    1802/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     2870     410/systemd-udevd    
+unix  2      [ ]         DGRAM                    32210    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     30798    1855/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     24083    1284/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     21298    1172/ssh-agent       
+unix  3      [ ]         STREAM     CONNECTED     18234    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28801    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26333    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24641    1260/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     26104    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28803    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23350    1294/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     31192    1780/gvfsd-trash     @/dbus-vfs-daemon/socket-qIQp9cvX
+unix  3      [ ]         STREAM     CONNECTED     24071    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23393    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22763    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     15076    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30928    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28297    1729/goa-daemon      
+unix  3      [ ]         STREAM     CONNECTED     24646    1260/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     29424    1631/gnome-session-  @/tmp/.ICE-unix/1631
+unix  3      [ ]         STREAM     CONNECTED     29238    1855/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     28958    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23267    1290/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     3009     443/haveged          
+unix  3      [ ]         STREAM     CONNECTED     34383    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     28539    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26606    1843/gsd-smartcard   
+unix  3      [ ]         STREAM     CONNECTED     25619    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23664    1144/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     18209    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28325    1729/goa-daemon      
+unix  3      [ ]         STREAM     CONNECTED     26345    1726/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     21404    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     28641    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     20475    934/gdm-x-session    
+unix  3      [ ]         STREAM     CONNECTED     28330    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22021    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29724    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24089    1288/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     23397    1295/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     21725    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     20474    934/gdm-x-session    
+unix  3      [ ]         STREAM     CONNECTED     32203    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     31754    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23211    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         STREAM                   26982    1426/Xorg            
+unix  3      [ ]         STREAM     CONNECTED     25551    1713/gnome-shell-ca  
+unix  3      [ ]         STREAM     CONNECTED     22960    1218/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     24075    1288/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     23709    1130/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     23649    933/pulseaudio       
+unix  2      [ ]         DGRAM                    20665    847/systemd          
+unix  3      [ ]         STREAM     CONNECTED     29577    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     22227    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     30934    1827/gsd-datetime    
+unix  3      [ ]         STREAM     CONNECTED     30411    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19342    933/pulseaudio       
+unix  3      [ ]         STREAM     CONNECTED     29968    1843/gsd-smartcard   
+unix  3      [ ]         STREAM     CONNECTED     24703    1291/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     23398    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     23639    934/gdm-x-session    
+unix  3      [ ]         STREAM     CONNECTED     20424    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26332    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23935    933/pulseaudio       /run/user/133/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     28640    1836/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     20477    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     14888    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30410    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22964    1224/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     30754    1854/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     29962    1828/gsd-housekeepi  
+unix  3      [ ]         STREAM     CONNECTED     24697    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     24067    1291/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     21958    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     24684    1284/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     31755    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28956    1802/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     23926    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     35447    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25611    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     23396    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     20884    847/systemd          
+unix  2      [ ]         DGRAM                    14842    1/init               
+unix  3      [ ]         STREAM     CONNECTED     26556    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28232    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23973    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     28658    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28370    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     23193    1267/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     30433    1780/gvfsd-trash     @/dbus-vfs-daemon/socket-XKnFQaGb
+unix  3      [ ]         STREAM     CONNECTED     26416    1761/gvfs-mtp-volum  
+unix  3      [ ]         STREAM     CONNECTED     24076    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     22780    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     21915    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28298    1729/goa-daemon      
+unix  3      [ ]         STREAM     CONNECTED     24640    1260/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     28802    1713/gnome-shell-ca  
+unix  3      [ ]         STREAM     CONNECTED     21724    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     32204    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     23411    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     21979    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30104    1814/evolution-cale  
+unix  3      [ ]         STREAM     CONNECTED     29281    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     28233    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24645    1267/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     30932    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29573    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     23310    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    27547    1726/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     25796    1353/colord          
+unix  3      [ ]         STREAM     CONNECTED     21259    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21241    1149/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     21909    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     29192    1841/gsd-sharing     
+unix  3      [ ]         STREAM     CONNECTED     28888    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     22228    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     30211    1875/vmtoolsd        
+unix  2      [ ]         DGRAM                    24871    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     21911    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28889    1729/goa-daemon      
+unix  3      [ ]         STREAM     CONNECTED     23309    1292/gsd-smartcard   
+unix  3      [ ]         STREAM     CONNECTED     15253    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28608    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     30836    1858/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     26561    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24070    1284/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     23749    1171/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     18233    936/Xorg             
+unix  3      [ ]         STREAM     CONNECTED     20753    933/pulseaudio       
+unix  3      [ ]         STREAM     CONNECTED     37013    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     29243    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     24636    1258/ibus-dconf      
+unix  3      [ ]         STREAM     CONNECTED     30034    1865/tracker-miner-  
+unix  3      [ ]         STREAM     CONNECTED     24867    1375/ibus-engine-si  
+unix  3      [ ]         STREAM     CONNECTED     28890    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22240    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     16796    1/init               
+unix  3      [ ]         STREAM     CONNECTED     30391    2096/gvfsd-metadata  
+unix  3      [ ]         STREAM     CONNECTED     24081    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     21348    1174/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     23770    1174/gnome-session-  
+unix  3      [ ]         DGRAM                    21514    1/init               
+unix  3      [ ]         STREAM     CONNECTED     31006    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22238    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     31762    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     31760    1898/gsd-printer     
+unix  3      [ ]         STREAM     CONNECTED     27484    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23351    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34552    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         DGRAM                    24951    1405/systemd         
+unix  3      [ ]         STREAM     CONNECTED     24918    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25330    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27998    1627/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     23517    1401/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     24096    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     19295    847/systemd          
+unix  3      [ ]         STREAM     CONNECTED     15264    574/NetworkManager   
+unix  3      [ ]         DGRAM                    13304    410/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     22233    1267/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     31195    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     30969    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     34504    3039/tracker-store   
+unix  3      [ ]         STREAM     CONNECTED     27009    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25646    1339/gsd-printer     
+unix  3      [ ]         STREAM     CONNECTED     20051    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22235    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34550    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27704    1427/dbus-daemon     
+unix  2      [ ]         DGRAM                    23521    1401/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     25633    1285/gsd-media-keys  
+unix  3      [ ]         DGRAM                    19291    847/systemd          
+unix  3      [ ]         STREAM     CONNECTED     18154    847/systemd          
+unix  3      [ ]         STREAM     CONNECTED     26613    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22245    1181/gnome-shell     
+unix  2      [ ]         DGRAM                    26377    1729/goa-daemon      
+unix  2      [ ]         DGRAM                    26877    1405/systemd         
+unix  3      [ ]         STREAM     CONNECTED     27443    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26308    1427/dbus-daemon     /run/user/0/bus
+unix  2      [ ]         DGRAM                    28000    1627/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     24903    677/gdm3             @/tmp/dbus-kw9AtRIv
+unix  3      [ ]         STREAM     CONNECTED     24705    1353/colord          
+unix  3      [ ]         STREAM     CONNECTED     25632    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     17460    572/cron             
+unix  3      [ ]         STREAM     CONNECTED     30951    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29922    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26420    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22236    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     36668    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29286    1417/pulseaudio      /run/user/0/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     29723    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28071    1645/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     25279    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27880    1567/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     27112    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24306    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    15261    574/NetworkManager   
+unix  3      [ ]         STREAM     CONNECTED     29970    1841/gsd-sharing     
+unix  3      [ ]         STREAM     CONNECTED     26331    1723/gvfs-udisks2-v  
+unix  3      [ ]         STREAM     CONNECTED     26132    1417/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     23887    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     36665    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     30416    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     24512    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     37099    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     28417    1814/evolution-cale  
+unix  3      [ ]         STREAM     CONNECTED     27444    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27960    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     24900    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24304    933/pulseaudio       /run/user/133/pulse/native
+unix  3      [ ]         DGRAM                    13305    410/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     30971    1922/ibus-engine-si  
+unix  3      [ ]         STREAM     CONNECTED     22200    1253/ibus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     17990    734/gdm-session-wor  
+unix  3      [ ]         STREAM     CONNECTED     34555    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     28492    1829/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     28183    1686/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     24463    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24286    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    19239    850/(sd-pam)         
+unix  3      [ ]         STREAM     CONNECTED     30972    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  2      [ ]         DGRAM                    30045    1841/gsd-sharing     
+unix  3      [ ]         STREAM     CONNECTED     21988    1181/gnome-shell     
+unix  2      [ ]         DGRAM                    23941    576/polkitd          
+unix  3      [ ]         STREAM     CONNECTED     27882    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24955    1405/systemd         
+unix  3      [ ]         STREAM     CONNECTED     28171    1686/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     23516    1401/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     25641    1290/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     15265    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    13302    410/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     27136    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     22241    1258/ibus-dconf      
+unix  3      [ ]         STREAM     CONNECTED     36663    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     35636    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    26874    1406/(sd-pam)        
+unix  3      [ ]         STREAM     CONNECTED     29872    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26306    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     24550    1417/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     25648    1339/gsd-printer     
+unix  3      [ ]         STREAM     CONNECTED     29969    1846/gsd-sound       
+unix  3      [ ]         STREAM     CONNECTED     29965    1839/gsd-screensave  
+unix  3      [ ]         STREAM     CONNECTED     22242    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     31196    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     28533    1837/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     28184    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25637    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     18777    677/gdm3             
+unix  3      [ ]         STREAM     CONNECTED     37340    3429/tracker-extrac  
+unix  3      [ ]         STREAM     CONNECTED     30950    1831/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     28606    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28290    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26251    1564/gvfsd           
+unix  3      [ ]         STREAM     CONNECTED     23958    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     36667    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     32209    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     30929    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25198    1567/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     28289    1723/gvfs-udisks2-v  
+unix  3      [ ]         STREAM     CONNECTED     27333    1638/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     27703    1427/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     24320    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24285    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     23399    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     30845    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29701    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     27705    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     22234    1267/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     37338    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     30755    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26375    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28172    1686/dconf-service   
+unix  3      [ ]         STREAM     CONNECTED     27959    1444/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     27690    1427/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     24899    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24305    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     22022    1218/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     30927    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     29971    1855/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     27008    1405/systemd         
+unix  2      [ ]         DGRAM                    25816    1353/colord          
+unix  3      [ ]         STREAM     CONNECTED     29108    1825/gsd-a11y-setti  
+unix  3      [ ]         STREAM     CONNECTED     28366    1802/ibus-portal     
+unix  3      [ ]         STREAM     CONNECTED     25631    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     18205    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17525    573/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     26516    1631/gnome-session-  @/tmp/.ICE-unix/1631
+unix  3      [ ]         STREAM     CONNECTED     23823    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     26417    1759/goa-identity-s  
+unix  3      [ ]         STREAM     CONNECTED     24313    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28491    1827/gsd-datetime    
+unix  3      [ ]         STREAM     CONNECTED     28230    1713/gnome-shell-ca  
+unix  3      [ ]         STREAM     CONNECTED     23518    1401/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     25645    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     37341    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26442    1780/gvfsd-trash     
+unix  3      [ ]         STREAM     CONNECTED     22246    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     30850    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28332    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25197    1567/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     27706    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25634    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM                    19292    847/systemd          
+unix  3      [ ]         STREAM     CONNECTED     26323    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20105    677/gdm3             @/tmp/dbus-tEMpwHe4
+unix  3      [ ]         STREAM     CONNECTED     37919    3429/tracker-extrac  
+unix  3      [ ]         STREAM     CONNECTED     27116    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         DGRAM                    24952    1405/systemd         
+unix  3      [ ]         STREAM     CONNECTED     34557    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     29109    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28578    1846/gsd-sound       
+unix  3      [ ]         STREAM     CONNECTED     23519    1401/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     25628    1292/gsd-smartcard   
+unix  3      [ ]         STREAM     CONNECTED     30844    1427/dbus-daemon     /run/user/0/bus
+unix  2      [ ]         DGRAM                    21993    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     28962    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     22725    1130/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     29285    1854/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     27480    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     26281    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23407    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     1733     1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30112    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30865    1862/gsd-disk-utili  
+unix  3      [ ]         STREAM     CONNECTED     30839    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26619    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29084    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     28327    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28181    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23986    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29728    1792/ibus-dconf      
+unix  3      [ ]         STREAM     CONNECTED     26486    1787/ibus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     25534    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     28111    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23419    1295/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     17897    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30414    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     29236    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     28965    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     23202    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19044    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30797    1836/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     27449    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     29294    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     26426    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     25653    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     30049    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     29240    1843/gsd-smartcard   
+unix  3      [ ]         STREAM     CONNECTED     28541    1829/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     28418    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26502    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     25464    1420/gnome-keyring-  
+unix  3      [ ]         STREAM     CONNECTED     23420    1284/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     36617    3039/tracker-store   
+unix  3      [ ]         STREAM     CONNECTED     28180    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     24310    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     24010    1174/gnome-session-  @/tmp/.ICE-unix/1174
+unix  3      [ ]         STREAM     CONNECTED     22150    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28369    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  2      [ ]         DGRAM                    18843    663/ModemManager     
+unix  3      [ ]         DGRAM                    12895    1/init               
+unix  3      [ ]         STREAM     CONNECTED     26509    1794/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     27533    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25650    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     25540    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     27114    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25627    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26610    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26568    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     25550    1417/pulseaudio      /run/user/0/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     23983    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     20582    734/gdm-session-wor  
+unix  3      [ ]         STREAM     CONNECTED     28654    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30866    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29729    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17879    658/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     26505    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     36666    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26615    1426/Xorg            @/tmp/.X11-unix/X1
+unix  2      [ ]         DGRAM                    25546    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     23406    1288/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     30919    1862/gsd-disk-utili  
+unix  3      [ ]         STREAM     CONNECTED     29138    1862/gsd-disk-utili  
+unix  3      [ ]         STREAM     CONNECTED     29866    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29732    1427/dbus-daemon     /run/user/0/bus
+unix  2      [ ]         DGRAM                    27107    1427/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     23977    1262/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     20101    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     31853    2019/evolution-addr  
+unix  3      [ ]         STREAM     CONNECTED     28538    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     27292    1631/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     20097    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29826    1825/gsd-a11y-setti  
+unix  3      [ ]         STREAM     CONNECTED     28934    1417/pulseaudio      /run/user/0/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     23409    1296/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     15069    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     35449    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     30840    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26298    1631/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     22023    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20544    677/gdm3             
+unix  3      [ ]         STREAM     CONNECTED     29874    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29292    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     26513    1797/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     26326    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28933    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     27896    1572/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     28660    1846/gsd-sound       
+unix  3      [ ]         STREAM     CONNECTED     28657    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26609    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24280    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     24094    1290/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     19045    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     29320    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     30921    1898/gsd-printer     
+unix  3      [ ]         STREAM     CONNECTED     29718    1792/ibus-dconf      
+unix  3      [ ]         STREAM     CONNECTED     28040    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29295    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     26504    1797/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     27642    1761/gvfs-mtp-volum  
+unix  3      [ ]         STREAM     CONNECTED     27407    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26901    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23402    1293/gsd-sound       
+unix  3      [ ]         STREAM     CONNECTED     28655    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     29163    1865/tracker-miner-  
+unix  3      [ ]         STREAM     CONNECTED     26560    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27638    1759/goa-identity-s  
+unix  3      [ ]         STREAM     CONNECTED     27555    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26011    677/gdm3             @/tmp/dbus-6fxQ7bGt
+unix  3      [ ]         STREAM     CONNECTED     23982    1262/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     28179    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25325    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    17893    658/systemd-logind   
+unix  3      [ ]         DGRAM                    12894    1/init               
+unix  2      [ ]         DGRAM                    29224    1631/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     28961    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26418    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25147    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28963    1794/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     29568    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29105    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     27639    1759/goa-identity-s  
+unix  3      [ ]         STREAM     CONNECTED     25663    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23925    1224/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     30863    1814/evolution-cale  
+unix  3      [ ]         STREAM     CONNECTED     28347    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28960    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     28664    1829/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     24082    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     30392    2096/gvfsd-metadata  
+unix  3      [ ]         STREAM     CONNECTED     30005    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     29162    1865/tracker-miner-  
+unix  3      [ ]         STREAM     CONNECTED     27594    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23984    1262/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     28653    1837/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     26510    1794/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     26243    1444/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     21225    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19328    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34556    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     29241    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     29165    1854/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     26558    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28964    1787/ibus-daemon     @/root/.cache/ibus/dbus-FLJGUFvR
+unix  3      [ ]         STREAM     CONNECTED     27897    1572/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     23408    1296/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     20057    658/systemd-logind   
+unix  3      [ ]         STREAM     CONNECTED     34274    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     29135    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23985    1253/ibus-daemon     @/var/lib/gdm3/.cache/ibus/dbus-upPi04BM
+unix  3      [ ]         STREAM     CONNECTED     20580    734/gdm-session-wor  
+unix  3      [ ]         STREAM     CONNECTED     27282    1631/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     26425    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     15255    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30924    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28953    1794/ibus-extension  
+unix  2      [ ]         DGRAM                    23453    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     28326    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28312    1723/gvfs-udisks2-v  
+unix  3      [ ]         STREAM     CONNECTED     28041    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     24462    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     21400    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     20104    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28605    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28537    1837/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     29727    1792/ibus-dconf      
+unix  3      [ ]         STREAM     CONNECTED     18844    663/ModemManager     
+unix  3      [ ]         STREAM     CONNECTED     16364    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26515    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     24307    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29262    1922/ibus-engine-si  
+unix  3      [ ]         STREAM     CONNECTED     30853    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     28495    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26566    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28966    1794/ibus-extension  
+unix  3      [ ]         STREAM     CONNECTED     23403    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     15256    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     36476    1417/pulseaudio      /run/user/0/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     32205    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     29566    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28661    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28656    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29106    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     28884    1745/gvfs-afc-volum  
+unix  3      [ ]         STREAM     CONNECTED     22248    1237/wpa_supplicant  
+unix  3      [ ]         STREAM     CONNECTED     23878    1218/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     16024    574/NetworkManager   
+unix  3      [ ]         STREAM     CONNECTED     26423    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     15231    576/polkitd          
+unix  3      [ ]         STREAM     CONNECTED     28665    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     26321    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     25624    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30418    2108/nautilus        
+unix  3      [ ]         STREAM     CONNECTED     29235    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     29134    1862/gsd-disk-utili  
+unix  3      [ ]         STREAM     CONNECTED     28375    1797/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     24009    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     20581    734/gdm-session-wor  
+unix  2      [ ]         DGRAM                    27346    1631/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     26422    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     26328    1719/evolution-sour  
+unix  3      [ ]         STREAM     CONNECTED     25652    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     28663    1829/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     25544    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     23410    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     16329    571/accounts-daemon  
+unix  3      [ ]         STREAM     CONNECTED     29237    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     29139    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28376    1797/ibus-x11        
+unix  3      [ ]         STREAM     CONNECTED     24049    1283/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     30922    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     31786    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     28942    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26325    1719/evolution-sour  
+unix  3      [ ]         STREAM     CONNECTED     27335    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30930    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     26607    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28177    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     30415    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30867    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29735    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26329    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28248    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     23978    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     15300    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     15958    571/accounts-daemon  
+unix  3      [ ]         STREAM     CONNECTED     30964    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     26967    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21723    945/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     30864    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     22421    1288/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     27227    1613/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     30117    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27458    1417/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     30046    1858/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     25057    1424/gdm-x-session   
+unix  3      [ ]         STREAM     CONNECTED     21980    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     21974    1174/gnome-session-  
+unix  3      [ ]         STREAM     CONNECTED     28638    1828/gsd-housekeepi  
+unix  3      [ ]         STREAM     CONNECTED     23229    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34505    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     29865    1831/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     31796    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30050    1854/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     25053    1424/gdm-x-session   
+unix  3      [ ]         STREAM     CONNECTED     21351    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22770    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     20851    937/rtkit-daemon     
+unix  3      [ ]         STREAM     CONNECTED     25609    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29921    1839/gsd-screensave  
+unix  3      [ ]         STREAM     CONNECTED     25276    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30847    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26276    1610/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     29974    1858/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     25532    1669/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     24095    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     21722    945/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     15251    573/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     25618    1294/gsd-wacom       
+unix  2      [ ]         DGRAM                    26312    1613/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     26866    1405/systemd         
+unix  3      [ ]         STREAM     CONNECTED     15071    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     28630    1875/vmtoolsd        
+unix  3      [ ]         STREAM     CONNECTED     26278    1610/at-spi2-regist  
+unix  3      [ ]         STREAM     CONNECTED     37918    3429/tracker-extrac  
+unix  3      [ ]         STREAM     CONNECTED     25005    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     24253    1294/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     21982    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     28668    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     23312    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31765    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27593    1745/gvfs-afc-volum  
+unix  3      [ ]         STREAM     CONNECTED     26299    1613/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     28182    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     28929    1769/gvfs-gphoto2-v  
+unix  3      [ ]         STREAM     CONNECTED     23213    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21984    945/dbus-daemon      /run/user/133/bus
+unix  3      [ ]         STREAM     CONNECTED     30988    1858/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     25606    1295/gsd-wwan        
+unix  3      [ ]         STREAM     CONNECTED     30851    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     27633    1750/gvfs-goa-volum  
+unix  2      [ ]         DGRAM                    20315    734/gdm-session-wor  
+unix  3      [ ]         STREAM     CONNECTED     31793    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     30858    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     29003    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     25036    1424/gdm-x-session   
+unix  3      [ ]         STREAM     CONNECTED     22327    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     21570    945/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     28639    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     28580    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     26564    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25608    1288/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     23070    1230/upowerd         
+unix  3      [ ]         STREAM     CONNECTED     29365    2019/evolution-addr  
+unix  3      [ ]         STREAM     CONNECTED     26277    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  2      [ ]         DGRAM                    2633     383/systemd-journal  
+unix  3      [ ]         STREAM     CONNECTED     30047    1858/gsd-xsettings   
+unix  3      [ ]         STREAM     CONNECTED     29041    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     25004    1420/gnome-keyring-  
+unix  3      [ ]         STREAM     CONNECTED     23182    1230/upowerd         
+unix  3      [ ]         STREAM     CONNECTED     21236    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25615    1294/gsd-wacom       
+unix  3      [ ]         STREAM     CONNECTED     30949    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     28077    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     18583    663/ModemManager     
+unix  3      [ ]         STREAM     CONNECTED     30978    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     27476    1631/gnome-session-  @/tmp/.ICE-unix/1631
+unix  3      [ ]         STREAM     CONNECTED     27186    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     34382    2981/gvfsd-recent    
+unix  3      [ ]         STREAM     CONNECTED     27761    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22364    1282/gsd-a11y-setti  
+unix  3      [ ]         STREAM     CONNECTED     26617    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     25622    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27634    1750/gvfs-goa-volum  
+unix  3      [ ]         STREAM     CONNECTED     23815    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     18269    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30837    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22496    1293/gsd-sound       
+unix  3      [ ]         STREAM     CONNECTED     35451    3039/tracker-store   
+unix  3      [ ]         STREAM     CONNECTED     28042    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23181    1237/wpa_supplicant  
+unix  3      [ ]         STREAM     CONNECTED     30846    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     30965    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     28798    1726/udisksd         
+unix  3      [ ]         STREAM     CONNECTED     23818    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     15252    573/dbus-daemon      
+unix  2      [ ]         DGRAM                    31806    1826/gsd-color       
+unix  3      [ ]         STREAM     CONNECTED     31794    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23270    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31757    1831/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     29136    1/init               /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM                    17625    572/cron             
+unix  3      [ ]         STREAM     CONNECTED     31795    1845/evolution-alar  
+unix  3      [ ]         STREAM     CONNECTED     26280    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     23947    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     21961    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25621    1285/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     28634    1831/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     29783    1825/gsd-a11y-setti  
+unix  3      [ ]         STREAM     CONNECTED     31020    1426/Xorg            @/tmp/.X11-unix/X1
+unix  3      [ ]         STREAM     CONNECTED     28886    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     29080    1836/gsd-print-noti  
+unix  3      [ ]         STREAM     CONNECTED     25037    1424/gdm-x-session   
+unix  3      [ ]         STREAM     CONNECTED     23223    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21956    1144/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     28292    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     24084    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     29280    1829/gsd-keyboard    
+unix  3      [ ]         STREAM     CONNECTED     28335    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     27523    1719/evolution-sour  
+unix  3      [ ]         STREAM     CONNECTED     28631    1875/vmtoolsd        
+unix  3      [ ]         STREAM     CONNECTED     28314    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25387    1645/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     26181    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     23817    1181/gnome-shell     
+unix  2      [ ]         DGRAM                    21918    945/dbus-daemon      
+unix  3      [ ]         STREAM     CONNECTED     15073    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22459    1291/gsd-rfkill      
+unix  3      [ ]         STREAM     CONNECTED     31764    1831/gsd-power       
+unix  3      [ ]         STREAM     CONNECTED     27645    1769/gvfs-gphoto2-v  
+unix  3      [ ]         STREAM     CONNECTED     31950    1875/vmtoolsd        
+unix  3      [ ]         STREAM     CONNECTED     36661    3066/gnome-terminal  
+unix  3      [ ]         STREAM     CONNECTED     26968    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23824    1181/gnome-shell     
+unix  3      [ ]         STREAM     CONNECTED     21983    1181/gnome-shell     
+unix  2      [ ]         DGRAM                    15288    573/dbus-daemon      
+unix  2      [ ]         DGRAM                    31797    1830/gsd-media-keys  
+unix  3      [ ]         STREAM     CONNECTED     28636    1827/gsd-datetime    
+unix  3      [ ]         STREAM     CONNECTED     23353    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31747    573/dbus-daemon      /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27331    1638/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     30987    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     27475    1417/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     37012    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25193    1564/gvfsd           
+unix  3      [ ]         STREAM     CONNECTED     25054    1427/dbus-daemon     /run/user/0/bus
+unix  3      [ ]         STREAM     CONNECTED     25048    1417/pulseaudio      
+unix  3      [ ]         STREAM     CONNECTED     21401    1/init               /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     21992    936/Xorg             @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     21960    1144/at-spi-bus-lau  
+unix  3      [ ]         STREAM     CONNECTED     29242    1572/dbus-daemon     @/tmp/dbus-dDxwTD7nrp
+unix  3      [ ]         STREAM     CONNECTED     24088    1149/dbus-daemon     @/tmp/dbus-2IpR2qs9PI
+unix  3      [ ]         STREAM     CONNECTED     29823    1828/gsd-housekeepi  
+unix  3      [ ]         STREAM     CONNECTED     26311    1613/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     26279    1610/at-spi2-regist  
+＜----------------------------------------------------------------＞
+ARP information:
+_gateway (192.168.0.1) at 0c:4b:54:c9:00:4d [ether] on eth0
+＜----------------------------------------------------------------＞
+process information:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.6  0.5 168760 11160 ?        Ss   18:02   0:06 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    18:02   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   18:02   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   18:02   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/0:0H-kblockd]
+root           8  0.0  0.0      0     0 ?        I<   18:02   0:00 [mm_percpu_wq]
+root           9  0.0  0.0      0     0 ?        S    18:02   0:00 [ksoftirqd/0]
+root          10  0.0  0.0      0     0 ?        I    18:02   0:00 [rcu_sched]
+root          11  0.0  0.0      0     0 ?        S    18:02   0:00 [migration/0]
+root          12  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/0:1-events]
+root          13  0.0  0.0      0     0 ?        S    18:02   0:00 [cpuhp/0]
+root          14  0.0  0.0      0     0 ?        S    18:02   0:00 [cpuhp/1]
+root          15  0.0  0.0      0     0 ?        S    18:02   0:00 [migration/1]
+root          16  0.0  0.0      0     0 ?        S    18:02   0:00 [ksoftirqd/1]
+root          18  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/1:0H-kblockd]
+root          19  0.0  0.0      0     0 ?        S    18:02   0:00 [cpuhp/2]
+root          20  0.0  0.0      0     0 ?        S    18:02   0:00 [migration/2]
+root          21  0.0  0.0      0     0 ?        S    18:02   0:00 [ksoftirqd/2]
+root          23  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/2:0H-kblockd]
+root          24  0.0  0.0      0     0 ?        S    18:02   0:00 [cpuhp/3]
+root          25  0.0  0.0      0     0 ?        S    18:02   0:00 [migration/3]
+root          26  0.0  0.0      0     0 ?        S    18:02   0:00 [ksoftirqd/3]
+root          28  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/3:0H-kblockd]
+root          29  0.0  0.0      0     0 ?        S    18:02   0:00 [kdevtmpfs]
+root          30  0.0  0.0      0     0 ?        I<   18:02   0:00 [netns]
+root          31  0.0  0.0      0     0 ?        S    18:02   0:00 [kauditd]
+root          32  0.0  0.0      0     0 ?        S    18:02   0:00 [khungtaskd]
+root          33  0.0  0.0      0     0 ?        S    18:02   0:00 [oom_reaper]
+root          34  0.0  0.0      0     0 ?        I<   18:02   0:00 [writeback]
+root          35  0.0  0.0      0     0 ?        S    18:02   0:00 [kcompactd0]
+root          36  0.0  0.0      0     0 ?        SN   18:02   0:00 [ksmd]
+root          37  0.4  0.0      0     0 ?        SN   18:02   0:04 [khugepaged]
+root          39  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/2:1-events]
+root          82  0.0  0.0      0     0 ?        I<   18:02   0:00 [kintegrityd]
+root          83  0.0  0.0      0     0 ?        I<   18:02   0:00 [kblockd]
+root          84  0.0  0.0      0     0 ?        I<   18:02   0:00 [blkcg_punt_bio]
+root          86  0.0  0.0      0     0 ?        I<   18:02   0:00 [edac-poller]
+root          87  0.0  0.0      0     0 ?        I<   18:02   0:00 [devfreq_wq]
+root          89  0.0  0.0      0     0 ?        S    18:02   0:00 [kswapd0]
+root          90  0.0  0.0      0     0 ?        I<   18:02   0:00 [kthrotld]
+root          91  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/24-pciehp]
+root          92  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/25-pciehp]
+root          93  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/26-pciehp]
+root          94  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/27-pciehp]
+root          95  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/28-pciehp]
+root          96  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/29-pciehp]
+root          97  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/30-pciehp]
+root          98  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/31-pciehp]
+root          99  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/32-pciehp]
+root         100  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/33-pciehp]
+root         101  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/34-pciehp]
+root         102  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/35-pciehp]
+root         103  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/36-pciehp]
+root         104  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/37-pciehp]
+root         105  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/38-pciehp]
+root         106  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/39-pciehp]
+root         107  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/40-pciehp]
+root         108  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/41-pciehp]
+root         109  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/42-pciehp]
+root         110  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/43-pciehp]
+root         111  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/44-pciehp]
+root         112  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/45-pciehp]
+root         113  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/46-pciehp]
+root         114  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/47-pciehp]
+root         115  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/48-pciehp]
+root         116  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/49-pciehp]
+root         117  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/50-pciehp]
+root         118  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/51-pciehp]
+root         119  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/52-pciehp]
+root         120  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/53-pciehp]
+root         121  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/54-pciehp]
+root         122  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/55-pciehp]
+root         123  0.0  0.0      0     0 ?        I<   18:02   0:00 [acpi_thermal_pm]
+root         124  0.0  0.0      0     0 ?        I<   18:02   0:00 [ipv6_addrconf]
+root         135  0.0  0.0      0     0 ?        I<   18:02   0:00 [kstrp]
+root         139  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/u9:0-hci0]
+root         183  0.0  0.0      0     0 ?        I<   18:02   0:00 [ata_sff]
+root         184  0.0  0.0      0     0 ?        I<   18:02   0:00 [cryptd]
+root         186  0.0  0.0      0     0 ?        S    18:02   0:00 [scsi_eh_0]
+root         187  0.0  0.0      0     0 ?        I<   18:02   0:00 [scsi_tmf_0]
+root         188  0.0  0.0      0     0 ?        S    18:02   0:00 [scsi_eh_1]
+root         189  0.0  0.0      0     0 ?        I<   18:02   0:00 [mpt_poll_0]
+root         190  0.0  0.0      0     0 ?        I<   18:02   0:00 [scsi_tmf_1]
+root         191  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/u8:2-events_unbound]
+root         193  0.0  0.0      0     0 ?        I<   18:02   0:00 [mpt/0]
+root         195  0.0  0.0      0     0 ?        S    18:02   0:00 [irq/16-vmwgfx]
+root         197  0.0  0.0      0     0 ?        I<   18:02   0:00 [ttm_swap]
+root         270  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/2:1H-kblockd]
+root         272  0.0  0.0      0     0 ?        S    18:02   0:00 [scsi_eh_2]
+root         273  0.0  0.0      0     0 ?        I<   18:02   0:00 [scsi_tmf_2]
+root         275  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/1:3-events]
+root         276  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/0:1H-kblockd]
+root         278  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/2:3-events]
+root         279  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/1:1H-kblockd]
+root         326  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/3:1H-kblockd]
+root         331  0.0  0.0      0     0 ?        S    18:02   0:00 [jbd2/sda1-8]
+root         332  0.0  0.0      0     0 ?        I<   18:02   0:00 [ext4-rsv-conver]
+root         383  0.1  0.7  36612 16236 ?        Ss   18:02   0:01 /lib/systemd/systemd-journald
+root         391  0.0  0.0      0     0 ?        I    18:02   0:00 [kworker/3:3-events]
+root         393  0.0  0.0      0     0 ?        I<   18:02   0:00 [rpciod]
+root         394  0.0  0.0      0     0 ?        I<   18:02   0:00 [xprtiod]
+root         410  0.1  0.3  23544  8040 ?        Ss   18:02   0:01 /lib/systemd/systemd-udevd
+root         443  0.1  0.2   8088  4904 ?        Ss   18:02   0:01 /usr/sbin/haveged --Foreground --verbose=1 -w 1024
+root         571  0.0  0.3 235940  7512 ?        Ssl  18:02   0:00 /usr/lib/accountsservice/accounts-daemon
+root         572  0.0  0.1   6716  2808 ?        Ss   18:02   0:00 /usr/sbin/cron -f
+message+     573  0.1  0.3   9628  6184 ?        Ss   18:02   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         574  0.0  0.8 253284 16984 ?        Ssl  18:02   0:00 /usr/sbin/NetworkManager --no-daemon
+root         576  0.0  0.4 235024  9872 ?        Ssl  18:02   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root         578  0.0  0.2 221776  4348 ?        Ssl  18:02   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         579  0.0  0.2  10000  4964 ?        Ss   18:02   0:00 /usr/sbin/smartd -n
+root         588  0.0  0.0      0     0 ?        I<   18:02   0:00 [kworker/u9:2-hci0]
+root         658  0.0  0.3  16004  7552 ?        Ss   18:02   0:00 /lib/systemd/systemd-logind
+root         663  0.0  0.5 313232 10412 ?        Ssl  18:02   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         677  0.0  0.4 314708  8352 ?        Ssl  18:02   0:00 /usr/sbin/gdm3
+root         734  0.0  0.4 165788  8528 ?        Sl   18:02   0:00 gdm-session-worker [pam/gdm-launch-environment]
+Debian-+     847  0.0  0.4  18180  9760 ?        Ss   18:02   0:00 /lib/systemd/systemd --user
+Debian-+     850  0.0  0.1 167672  2772 ?        S    18:02   0:00 (sd-pam)
+Debian-+     933  0.1  1.1 888592 23844 ?        S<sl 18:03   0:01 /usr/bin/pulseaudio --daemonize=no
+Debian-+     934  0.0  0.3 163380  6512 tty1     Ssl+ 18:03   0:00 /usr/lib/gdm3/gdm-x-session gnome-session --autostart /usr/share/gdm/greeter/autostart
+Debian-+     936  0.1  2.5 833520 51020 tty1     Sl+  18:03   0:01 /usr/lib/xorg/Xorg vt1 -displayfd 3 -auth /run/user/133/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit        937  0.0  0.1 152684  2872 ?        SNsl 18:03   0:00 /usr/libexec/rtkit-daemon
+Debian-+     945  0.0  0.2   7380  4708 ?        Ss   18:03   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         999  0.0  0.1 242112  2680 ?        Ssl  18:03   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root        1020  0.2  0.6 158196 13272 ?        Sl   18:03   0:01 /usr/sbin/vmtoolsd
+root        1071  0.0  0.5  40360 11260 ?        S    18:03   0:00 /usr/lib/vmware-vgauth/VGAuthService -s
+Debian-+    1130  0.0  0.7 275244 14288 tty1     Sl+  18:03   0:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+Debian-+    1144  0.0  0.3 309180  6540 ?        Ssl  18:03   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+Debian-+    1149  0.0  0.2   7048  4328 ?        S    18:03   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+Debian-+    1171  0.0  0.2  87400  4236 ?        Ssl  18:03   0:00 /usr/libexec/gnome-session-ctl --monitor
+Debian-+    1172  0.0  0.1   5880  3732 ?        Ss   18:03   0:00 ssh-agent -D -a /run/user/133/openssh_agent
+Debian-+    1174  0.0  0.7 423108 15440 ?        Ssl  18:03   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=gnome-login
+Debian-+    1181  1.6 12.0 3485580 246300 ?      Ssl  18:03   0:15 /usr/bin/gnome-shell
+Debian-+    1218  0.0  0.3 170796  6632 ?        Sl   18:03   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+Debian-+    1224  0.0  0.3 233104  6248 ?        Ssl  18:03   0:00 /usr/libexec/xdg-permission-store
+root        1230  0.0  0.4 249440  9524 ?        Ssl  18:03   0:00 /usr/lib/upower/upowerd
+root        1237  0.0  0.2  13464  5012 ?        Ss   18:03   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+Debian-+    1253  0.0  0.5 455928 10344 ?        Sl   18:03   0:00 ibus-daemon --panel disable -r --xim
+Debian-+    1258  0.0  0.3 234032  7108 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-dconf
+Debian-+    1260  0.1  1.4 282956 28996 ?        Sl   18:03   0:01 /usr/lib/ibus/ibus-extension-gtk3
+Debian-+    1262  0.0  1.1 205432 22828 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+Debian-+    1267  0.0  0.3 233884  7280 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-portal
+Debian-+    1282  0.0  0.4 307176  8668 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+Debian-+    1283  0.0  1.1 428032 24096 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-color
+Debian-+    1284  0.0  1.1 352684 22612 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+Debian-+    1285  0.0  1.2 906540 25804 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+Debian-+    1288  0.0  1.1 427544 24148 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+Debian-+    1290  0.0  0.5 245540 10748 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+Debian-+    1291  0.0  0.2 454516  5876 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+Debian-+    1292  0.0  0.4 312508  9996 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+Debian-+    1293  0.0  0.4 320732  9048 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+Debian-+    1294  0.0  1.1 352932 22756 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+Debian-+    1295  0.0  0.4 385212 10064 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-wwan
+Debian-+    1296  0.0  1.1 353440 23892 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+Debian-+    1339  0.0  0.7 352952 15056 ?        Sl   18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+colord      1353  0.0  0.7 241672 14600 ?        Ssl  18:03   0:00 /usr/lib/colord/colord
+Debian-+    1375  0.0  0.3 160212  7116 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-engine-simple
+root        1401  0.0  0.4 165976  8940 ?        Sl   18:03   0:00 gdm-session-worker [pam/gdm-password]
+root        1405  0.0  0.4  18296  9864 ?        Ss   18:03   0:00 /lib/systemd/systemd --user
+root        1406  0.0  0.1 167436  2828 ?        S    18:03   0:00 (sd-pam)
+root        1417  0.1  1.1 1419336 24444 ?       S<sl 18:03   0:01 /usr/bin/pulseaudio --daemonize=no
+root        1420  0.0  0.4 237604  9824 ?        Sl   18:03   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+root        1424  0.0  0.3 163380  6432 tty2     Ssl+ 18:03   0:00 /usr/lib/gdm3/gdm-x-session --run-script /usr/bin/gnome-session
+root        1426  2.1  3.4 851424 69736 tty2     Sl+  18:03   0:19 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/0/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+root        1427  0.1  0.2   7904  5220 ?        Ss   18:03   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root        1444  0.0  0.6 275248 14120 tty2     Sl+  18:03   0:00 /usr/libexec/gnome-session-binary --systemd
+root        1529  0.0  0.0   5880   480 ?        Ss   18:03   0:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/gnome-session
+root        1564  0.0  0.3 237184  7848 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfsd
+root        1567  0.0  0.3 309184  6552 ?        Ssl  18:03   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+root        1572  0.0  0.2   7048  4264 ?        S    18:03   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+root        1610  0.0  0.3 170792  6840 ?        Sl   18:03   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root        1613  0.0  0.6 386280 14088 ?        Ssl  18:03   0:00 /usr/libexec/xdg-desktop-portal
+root        1627  0.0  0.2  87400  4212 ?        Ssl  18:03   0:00 /usr/libexec/gnome-session-ctl --monitor
+root        1631  0.0  0.7 497076 15656 ?        Ssl  18:03   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=gnome
+root        1638  0.0  0.3 455040  6644 ?        Ssl  18:03   0:00 /usr/libexec/xdg-document-portal
+root        1645  0.0  0.3 233104  8100 ?        Ssl  18:03   0:00 /usr/libexec/xdg-permission-store
+root        1669  6.2 17.0 4245804 346936 ?      Ssl  18:03   0:57 /usr/bin/gnome-shell
+root        1686  0.0  0.2 155936  5608 ?        Sl   18:03   0:00 /usr/lib/dconf/dconf-service
+root        1713  0.0  1.0 505480 22096 ?        Sl   18:03   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server
+root        1719  0.0  1.3 399904 27776 ?        Ssl  18:03   0:00 /usr/libexec/evolution-source-registry
+root        1723  0.0  0.5 494096 11616 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root        1726  0.0  0.7 392156 14488 ?        Ssl  18:03   0:00 /usr/lib/udisks2/udisksd
+root        1729  0.0  1.7 545024 34860 ?        Sl   18:03   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+root        1745  0.0  0.4 314144  8868 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root        1750  0.0  0.2 233296  5872 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+root        1759  0.0  0.5 312212 11012 ?        Sl   18:03   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+root        1761  0.0  0.2 233092  5728 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+root        1769  0.0  0.3 235456  6268 ?        Ssl  18:03   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+root        1780  0.0  0.4 311632  8436 ?        Sl   18:03   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.10 /org/gtk/gvfs/exec_spaw/0
+root        1787  0.2  0.4 382288  8304 ?        Sl   18:03   0:02 ibus-daemon --panel disable -r --xim
+root        1792  0.0  0.4 234032  9200 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-dconf
+root        1794  0.1  1.3 282976 27300 ?        Sl   18:03   0:01 /usr/lib/ibus/ibus-extension-gtk3
+root        1797  0.0  1.1 205448 23080 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+root        1802  0.0  0.4 234016  9308 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-portal
+root        1814  0.0  1.6 848488 33028 ?        Ssl  18:03   0:00 /usr/libexec/evolution-calendar-factory
+root        1825  0.0  0.3 307180  6568 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings
+root        1826  0.0  1.1 575552 24360 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-color
+root        1827  0.0  0.7 383472 16148 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime
+root        1828  0.0  0.3 309192  7744 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping
+root        1829  0.0  1.2 426496 25056 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard
+root        1830  0.0  1.3 906596 28188 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys
+root        1831  0.0  1.1 501432 24196 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-power
+root        1836  0.0  0.5 319272 10732 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications
+root        1837  0.0  0.2 454516  5748 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill
+root        1839  0.0  0.2 232932  5704 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy
+root        1841  0.0  0.4 462240  9864 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing
+root        1843  0.0  0.4 386248  8596 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard
+root        1845  0.0  2.8 782440 57612 ?        Sl   18:03   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+root        1846  0.0  0.4 320736  9172 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-sound
+root        1854  0.0  1.1 352884 22832 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom
+root        1855  0.0  0.3 311484  8016 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-wwan
+root        1858  0.0  1.2 353552 26068 ?        Ssl  18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings
+root        1862  0.0  0.2 231464  5168 ?        Sl   18:03   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify
+root        1865  0.0  1.3 507924 27260 ?        SNl  18:03   0:00 /usr/lib/tracker/tracker-miner-fs
+root        1875  0.2  1.6 228840 33124 ?        Sl   18:03   0:02 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+root        1898  0.0  0.7 352952 15104 ?        Sl   18:03   0:00 /usr/lib/gnome-settings-daemon/gsd-printer
+root        1922  0.0  0.4 160212  9104 ?        Sl   18:03   0:00 /usr/lib/ibus/ibus-engine-simple
+root        2019  0.0  1.7 741048 35228 ?        Ssl  18:03   0:00 /usr/libexec/evolution-addressbook-factory
+root        2096  0.0  0.3 159716  6400 ?        Ssl  18:04   0:00 /usr/lib/gvfs/gvfsd-metadata
+root        2108  0.8  3.7 660124 77320 ?        Sl   18:07   0:05 /usr/bin/nautilus --gapplication-service
+root        2168  0.0  0.0      0     0 ?        I    18:08   0:00 [kworker/u8:0-floppy]
+root        2228  0.0  0.0      0     0 ?        I    18:09   0:00 [kworker/3:0-events]
+root        2234  0.0  0.0      0     0 ?        I    18:10   0:00 [kworker/0:0-ata_sff]
+root        2275  0.0  0.0      0     0 ?        I    18:10   0:00 [kworker/1:0-ata_sff]
+root        2947  0.0  0.0      0     0 ?        I    18:15   0:00 [kworker/1:1-ata_sff]
+root        2952  0.0  0.0      0     0 ?        I    18:16   0:00 [kworker/2:0-events]
+root        2981  0.0  0.4 311688  8840 ?        Sl   18:17   0:00 /usr/lib/gvfs/gvfsd-recent --spawner :1.10 /org/gtk/gvfs/exec_spaw/1
+root        2995  0.0  0.0      0     0 ?        I    18:17   0:00 [kworker/2:2]
+root        3004  0.0  0.0      0     0 ?        I    18:17   0:00 [kworker/3:1]
+root        3026  0.0  0.0      0     0 ?        I    18:18   0:00 [kworker/0:2-events]
+root        3039  2.9  1.5 431388 31380 ?        Ssl  18:19   0:00 /usr/lib/tracker/tracker-store
+root        3066  5.1  2.3 631528 48744 ?        Ssl  18:19   0:00 /usr/libexec/gnome-terminal-server
+root        3074  0.2  0.2   8048  4588 pts/0    Ss   18:19   0:00 bash
+root        3077  0.5  0.3  10128  6980 pts/0    S+   18:19   0:00 python hwk6.py
+root        3429 15.0  2.1 1287388 43000 ?       SNsl 18:19   0:00 /usr/lib/tracker/tracker-extract
+root        3679  0.0  0.0   2384   768 pts/0    S+   18:19   0:00 sh -c (echo process information: && ps -aux) >> test.log
+root        3680  0.0  0.1   9092  3132 pts/0    R+   18:19   0:00 ps -aux
+＜----------------------------------------------------------------＞
+the live data collection has finished
